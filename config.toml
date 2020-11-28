@@ -1,4 +1,51 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "#1 Baller"
+title = "Sunil Rao"
 theme = "erblog"
+
+[params]
+    author = "Sunil Rao"
+    badge = "orange"
+    quote = "red"
+    # notice = "Hello, world. This is a notification."
+    # notice_color = "red"
+    index_posts_num = 5
+    google_search = true
+    # logo = "//blog.ertuil.top/avater.png"
+    bio = """
+    <p> Building tools for learning better. </p>
+    <br />
+    <p>Proprietor of Maryland's most exclusive barbell club.</p>
+    <br />
+    <p>Man of letters.</p>
+    """
+
+[[menu.main]]
+    url = "/projects/"
+    name = "Projects"
+    weight = 1
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[[menu.icon]]
+    url = "mailto:sunil.rao.93@mail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/sunilrao1/"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/sunilvrao"
+    name = "twitter"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://www.instagram.com/_sunilvrao_/"
+    name = "instagram"
+    weight = 1
