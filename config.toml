@@ -17,8 +17,10 @@ theme = "erblog"
     <br />
     <p>Proprietor of Maryland's most exclusive barbell club.</p>
     <br />
-    <p>Man of letters.</p>
+    <p>Armchair intellectual.</p>
     """
+    description = "No one to be."
+    portrait = "/images/self/Circle_headshot.png"
 
 [[menu.main]]
     url = "/projects/"
