@@ -7,12 +7,8 @@ layout: aboutpage
 ---
 
 <!-- <img src="/images/self/Unchanged_headshot.jpg" /> -->
-<img src="/images/self/Oval_headshot.jpg" />
+<img style="float: left; padding-right: 100px" src="/images/self/Oval_headshot.jpg" />
 
-Quarter life crisis-ing. Solitude -> Leadership.
+Starting small, at last. Building tools for learning better. Proprietor of Rao Athletic Club. Reading and writing widely.
 
-Building tools for learning better.
-
-Proprietor of Rao Barbell Club.
-
-Part-time intellectual.
+Previously, I’ve worked in strategic planning at Verizon, done sales and digital marketing at a fintech startup, tried (and failed spectacularly at) finding endorsement deals for Brazilian soccer players, and worked in investment banking at Morgan Stanley.
