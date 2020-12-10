@@ -2,7 +2,7 @@
 title: 'Notes on Hayek''s "The Pretense of Knowledge" (1974)'
 date: Mon, 01 Jun 2020 19:02:39 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['political economy']
 ---
 
 Key Takeaways:

@@ -2,7 +2,7 @@
 title: 'Yes-and political economy: notes on Breaking Smart, Season 1.'
 date: Thu, 16 Jul 2020 19:18:32 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['political economy']
 ---
 
 **Ride the software wave or cling to a sinking ship**

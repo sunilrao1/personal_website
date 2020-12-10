@@ -2,7 +2,7 @@
 title: 'Is political freedom limited by economic freedom? Notes on Hayek''s "The Road to Serfdom."'
 date: Mon, 15 Jun 2020 18:16:01 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['political economy']
 ---
 
 ### 2-sentence summary:

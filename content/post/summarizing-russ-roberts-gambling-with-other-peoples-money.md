@@ -2,7 +2,7 @@
 title: 'Summarizing Russ Roberts'' "Gambling with Other People''s Money"'
 date: Fri, 05 Jun 2020 14:13:52 +0000
 draft: false
-tags: ['#politicaleconomy', 'political economy']
+tags: ['political economy']
 ---
 
 Summary
