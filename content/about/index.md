@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-12-04T12:41:09-05:00
-draft: true
+draft: false
 type: about
 layout: aboutpage
 ---
