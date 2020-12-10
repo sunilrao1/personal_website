@@ -5,8 +5,6 @@ draft: false
 tags: ['building in public']
 ---
 
-[![](https://sunilvraocom.files.wordpress.com/2020/11/image-1.png?w=584)](https://gmat-redo.glideapp.io/)
-
 One of my teachers during freshman year of high school encouraged us to write down at the end of each day what we'd learned that day, as a way to internalize new concepts.
 
 It was a nice idea. Wish I could say I followed through!

@@ -1,7 +1,7 @@
 ---
 title: 'Building win-win commercial gyms'
 date: Mon, 20 Jul 2020 20:41:23 +0000
-draft: true
+draft: false
 tags: ['memos']
 ---
 
