@@ -2,6 +2,7 @@
 title: "Something like political economy"
 date: 2020-05-25
 draft: false
+tags: ['political economy']
 ---
 
 I've been an avid reader/listener of Marginal Revolution, EconTalk, Conversations with Tyler, and Nassim Nicholas Taleb's works for a few years now.

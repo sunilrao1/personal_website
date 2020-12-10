@@ -1,6 +1,3 @@
 [submodule "themes/erblog"]
 	path = themes/erblog
 	url = https://github.com/ertuil/erblog
-[submodule "themes/zozo"]
-	path = themes/zozo
-	url = https://github.com/varkai/hugo-theme-zozo
