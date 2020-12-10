@@ -63,10 +63,10 @@ pygmentscodefencesguesssyntax = true
 # Your socail's url
 [social]
   # github = " "
-  twitter = " "
+  twitter = "https://twitter.com/SunilvRao"
   # facebook = " "
   # weibo = " "
-  instagram = " "
+  instagram = "https://instagram.com/_sunilvrao_"
 
 [markup]
 [markup.goldmark]

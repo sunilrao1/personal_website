@@ -7,7 +7,7 @@ layout: aboutpage
 ---
 
 <!-- <img src="/images/self/Unchanged_headshot.jpg" /> -->
-<img style="float: left; padding-right: 100px" src="/images/self/Oval_headshot.jpg" />
+<img style="float: left; padding-right: 80px" src="/images/self/Oval_headshot.png" />
 
 Starting small, at last. Building tools for learning better. Proprietor of Rao Athletic Club. Reading and writing widely.
 
