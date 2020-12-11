@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>memos on Manis</title>
+    <link>https://sunilvrao.com/tags/memos/</link>
+    <description>Recent content in memos on Manis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2019 Yurizal Susanto</copyright>
+    <lastBuildDate>Mon, 20 Jul 2020 20:41:23 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/tags/memos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building win-win commercial gyms</title>
+      <link>https://sunilvrao.com/projects/building-win-win-commercial-gyms/</link>
+      <pubDate>Mon, 20 Jul 2020 20:41:23 +0000</pubDate>
+      
+      <guid>https://sunilvrao.com/projects/building-win-win-commercial-gyms/</guid>
+      <description>The premise: Commercial gyms generally want you to buy a subscription and never use it. More than 70 million Americans had a gym membership last year, but only 18% went consistently. All 70 million paid an average of $58 per month for their membership. And if you do go - especially at a reasonable hour - the equipment you need could be occupied. We’re seriously still doing this?
+For many, home/outdoor fitness does the job.</description>
+    </item>
+    
+    <item>
+      <title>Introduce spaced repetition for more learning on Brilliant</title>
+      <link>https://sunilvrao.com/projects/introduce-spaced-repetition-for-more-learning-on-brilliant/</link>
+      <pubDate>Tue, 14 Jul 2020 18:04:07 +0000</pubDate>
+      
+      <guid>https://sunilvrao.com/projects/introduce-spaced-repetition-for-more-learning-on-brilliant/</guid>
+      <description>I’ve been using Brilliant for a few weeks now. In the last few years, reading the works of Nassim Taleb on probability, randomness and complex systems rekindled my desire to learn probability and statistics. Instead of brushing off some rather dreary-looking textbooks in order to refresh my foundations, I decided to turn to Brilliant instead after stumbling upon its wonderful culture page.
+The emphasis on learning by doing has been refreshing.</description>
+    </item>
+    
+  </channel>
+</rss>
