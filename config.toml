@@ -1,10 +1,10 @@
 baseURL = "https://sunilvrao.com"
-title = "Manis"
+title = "Sunil Rao"
 theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2019 Yurizal Susanto"
-pluralizeListTitles = false
+# copyright = "&copy; 2019 Yurizal Susanto"
+# pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
 paginate = 10
@@ -21,12 +21,16 @@ pygmentsUseClasses = true
 
 [menu]
 	[[menu.main]]
-		name = "Post"
-		url = "/post/"
+		name = "Posts"
+		url = "/posts/"
 
 	[[menu.main]]
 		name = "About"
 		url = "/about"
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects"
 
 [taxonomies]
 	tag = "tags"
@@ -38,18 +42,18 @@ pygmentsUseClasses = true
 	customCSS = []
 
 	# Site meta description
-	description = "Sweet little Hugo's theme for personal website or blog."
+	description = "My serendipidy machine."
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "Nothing sweeter than this"
+	# tagline = "Always something to find out"
 	# If true give attribution to this theme
-	themeAttrib = true
+	themeAttrib = false
 	# URL to license file, can be outside of your domain
-	licenseURL = "/about/license"
+	# licenseURL = "/about/license"
 
 	# Configure which sections for Latest Posts
-	mainSections = ["blog", "post"]
+	mainSections = ["blog", "posts"]
 	# Configure which sections for Latest Works
-	workSections = ["work"]
+	workSections = ["projects"]
 
 	# List of sections that support disqus comments
 	disqusSections = [ "blog" ]
@@ -66,7 +70,7 @@ pygmentsUseClasses = true
 	sub404 = "Back to <a href='/'>Home</a>."
 
 	# Color of your website's accent
-	colorTheme = "#ff6565"
+	colorTheme = "#3b31cc"
 	# Maximum number of item in Latest Posts or Works
 	latestCount = 3
 	# Path to site's favicon image
@@ -80,9 +84,9 @@ pygmentsUseClasses = true
 	highlightJsStyle = "ocean"
 
 	# Social Links
-	email = "mail@yurizal-san.com"
-	github = "https://github.com/yursan9/"
-	twitter = "https://twitter.com/yuri_boya"
+	email = "mail@sunil.rao.93@gmail.ccom"
+	# github = "https://github.com/yursan9/"
+	twitter = "https://twitter.com/SunilvRao"
 
 
 # Language Configuration
