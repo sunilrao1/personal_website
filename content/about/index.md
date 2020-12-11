@@ -2,7 +2,6 @@
 title: "About"
 date: 2020-12-04T12:41:09-05:00
 draft: false
-type: about
 ---
 
 <!-- <img src="/images/self/Unchanged_headshot.jpg" /> -->

@@ -1,55 +1,92 @@
 baseURL = "https://sunilvrao.com"
-DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
-languageCode = "en-us"
-title = "A Hugo Site"
-copyright = "This is a customized copyright."
-theme = "diary"
-# googleAnalytics = "UA-123-45"
+title = "Manis"
+theme = "manis"
 
-[markup]
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    style = "perldoc"
-    tabWidth = 4
+# Copyright notice. Note: You can use HTML tag here
+copyright = "&copy; 2019 Yurizal Susanto"
+pluralizeListTitles = false
+
+# Minimum number of posts before paginate navigation show up
+paginate = 10
+
+# Your disqus shortname
+disqusShortname = ""
+
+# Edit this if you want to translate your blog
+defaultContentLanguage = "en"
+
+# Code Highlighting (Chroma)
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[menu]
+	[[menu.main]]
+		name = "Post"
+		url = "/post/"
+
+	[[menu.main]]
+		name = "About"
+		url = "/about"
+
+[taxonomies]
+	tag = "tags"
 
 [params]
-subtitle = "Themed by Diary."
-enableGitalk = true
+	# If false, use minified CSS (ui.min.css)
+	debugCSS = false
+	# Custom CSS
+	customCSS = []
 
-# Twitter Card and Open Graph settings
-enableOpenGraph = true
-enableTwitterCards = true
-title = "My Blog" # will set 'og:site_name'
-description = "My HomePage Description"  # will set 'og:description'
+	# Site meta description
+	description = "Sweet little Hugo's theme for personal website or blog."
+	# Site's Tagline (Subtitle or Keyword)
+	tagline = "Nothing sweeter than this"
+	# If true give attribution to this theme
+	themeAttrib = true
+	# URL to license file, can be outside of your domain
+	licenseURL = "/about/license"
 
-[params.gitalk]
-  owner = "user"
-  repo = "repo name"
-  client_id = "your client id"
-  client_secret = "your client secret"
-[taxonomies]
-   tag = "tags"
-   category = "categories"
+	# Configure which sections for Latest Posts
+	mainSections = ["blog", "post"]
+	# Configure which sections for Latest Works
+	workSections = ["work"]
 
-[[menu.main]]
-url = "/categories"
-name = "Categories"
-weight = 2
-[[menu.main]]
-url = "/tags"
-name = "Tags"
-weight = 3
-[[menu.main]]
-url = "/posts"
-name = "Archive"
-weight = 1
-[[menu.main]]
-url = "/index.xml"
-name = "RSS Feed"
-weight = 4
+	# List of sections that support disqus comments
+	disqusSections = [ "blog" ]
+	# List of sections that support utterances comments
+	utterancesSections = [ "blog" ]
+
+	# Utterances Configuration
+	utterancesRepo = ""
+	utterancesTheme = "github-light"
+	utterancesLabel = ""
+
+	# 404 Configuration
+	head404 = "Sorry, I can't find what you want."
+	sub404 = "Back to <a href='/'>Home</a>."
+
+	# Color of your website's accent
+	colorTheme = "#ff6565"
+	# Maximum number of item in Latest Posts or Works
+	latestCount = 3
+	# Path to site's favicon image
+	faviconImg = ""
+	# Date format in item list
+	dateFmt = "Jan 02, 2006"
+
+	# Code Highlighting (HighlightJS)
+	highlightJs = false
+	highlightJsLanguages = [ "go" ]
+	highlightJsStyle = "ocean"
+
+	# Social Links
+	email = "mail@yurizal-san.com"
+	github = "https://github.com/yursan9/"
+	twitter = "https://twitter.com/yuri_boya"
+
+
+# Language Configuration
+#[languages.in]
+#	lang = "in"
+#	languageName = "Bahasa Indonesia"
+#	weight = 1
