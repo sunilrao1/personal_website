@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>building in public on Sunil Rao</title>
+    <title>building in public on A Hugo Site</title>
     <link>https://sunilvrao.com/tags/building-in-public/</link>
-    <description>Recent content in building in public on Sunil Rao</description>
+    <description>Recent content in building in public on A Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Thu, 12 Nov 2020 03:30:33 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/tags/building-in-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A simple redo log for the GMAT</title>
@@ -15,9 +16,7 @@
       <guid>https://sunilvrao.com/projects/a-simple-redo-log-for-the-gmat-copy/</guid>
       <description>One of my teachers during freshman year of high school encouraged us to write down at the end of each day what we&amp;rsquo;d learned that day, as a way to internalize new concepts.
 It was a nice idea. Wish I could say I followed through!
-Fast forward twelve (!!) years later, and my GMAT instructor emphasizes that keeping an error log and redoing problems is the #1 way to raise your GMAT Score.
-This time around, I listened up. In hindsight, I probably could have done an even better job committing to my redo&amp;rsquo;s.
-Problems would pile up on the error log.</description>
+Fast forward twelve (!!) years later, and my GMAT instructor emphasizes that keeping an error log and redoing problems is the #1 way to raise your GMAT Score.</description>
     </item>
     
   </channel>

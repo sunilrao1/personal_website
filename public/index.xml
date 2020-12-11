@@ -1,267 +1,288 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sunil Rao</title>
+    <title>A Hugo Site</title>
     <link>https://sunilvrao.com/</link>
-    <description>Recent content on Sunil Rao</description>
+    <description>Recent content on A Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2020 04:04:51 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://sunilvrao.com/about/</link>
-      <pubDate>Fri, 04 Dec 2020 12:41:09 -0500</pubDate>
-      
-      <guid>https://sunilvrao.com/about/</guid>
-      <description>-- Starting small, at last. Building tools for learning better. Proprietor of Rao Athletic Club. Reading and writing widely.
-Previously, I’ve worked in strategic planning at Verizon, done sales and digital marketing at a fintech startup, tried (and failed spectacularly at) finding endorsement deals for Brazilian soccer players, and worked in investment banking at Morgan Stanley.</description>
-    </item>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Wed, 18 Nov 2020 04:04:51 +0000</lastBuildDate>
     
-    <item>
-      <title>Hopelessly half-baked study guide #3: The Kegan Model</title>
-      <link>https://sunilvrao.com/post/hopelessly-half-baked-study-guide-3-the-kegan-model/</link>
-      <pubDate>Wed, 18 Nov 2020 04:04:51 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/hopelessly-half-baked-study-guide-3-the-kegan-model/</guid>
-      <description>Several friends and mentors of mine have suffered the misfortune of lending me their ears during my Kegan phase. For the uninitiated, Robert Kegan has proposed a fascinating and encouraging model of psychological development that continues well into adulthood - which, one learns, was not previously generally accepted. This is sort of a cheat-post - I repurpose what I wrote from an email exchange my attempt (only what I wrote) to put Kegan’s work in my words and reflect on it’s applicability, lightly edited for clarity. My main sources were Kegan’s In Over Our Heads: The Mental Demands of Modern Life, and of course David Chapman’s piece on the Kegan model, which provides a much better and deeper summary.</description>
-    </item>
+        <atom:link href="https://sunilvrao.com/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>A simple redo log for the GMAT</title>
-      <link>https://sunilvrao.com/projects/a-simple-redo-log-for-the-gmat-copy/</link>
-      <pubDate>Thu, 12 Nov 2020 03:30:33 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/projects/a-simple-redo-log-for-the-gmat-copy/</guid>
-      <description>One of my teachers during freshman year of high school encouraged us to write down at the end of each day what we&amp;rsquo;d learned that day, as a way to internalize new concepts.
-It was a nice idea. Wish I could say I followed through!
-Fast forward twelve (!!) years later, and my GMAT instructor emphasizes that keeping an error log and redoing problems is the #1 way to raise your GMAT Score.
-This time around, I listened up. In hindsight, I probably could have done an even better job committing to my redo&amp;rsquo;s.
-Problems would pile up on the error log.</description>
-    </item>
     
-    <item>
-      <title>Highlights that don&#39;t make the reel</title>
-      <link>https://sunilvrao.com/post/highlights-that-dont-make-the-reel/</link>
-      <pubDate>Mon, 26 Oct 2020 01:56:11 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/highlights-that-dont-make-the-reel/</guid>
-      <description>The headlines after the 0-0 draw at Old Trafford were sadly predictable. “Man United, Chelsea show why Premier League title challenge is beyond them.”
-My favorite shot from that game (though let’s be honest it didn’t have much competition…tehe) was of Thiago Silva and Edinson Cavani connecting after the final whistle. Silva puts his hand on his former teammate’s shoulder…you can imagine these guys have so much to talk about. The warmth is obvious. Both approaching the end of their playing careers, embarking on perhaps their final adventures at the elite level and, you’d imagine, plainly interested in how the other guy is doing and adjusting to his new situation.</description>
-    </item>
     
-    <item>
-      <title>“How to Do What You Love” needs a prequel</title>
-      <link>https://sunilvrao.com/post/how-to-do-what-you-love-needs-a-prequel/</link>
-      <pubDate>Thu, 22 Oct 2020 01:29:30 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/how-to-do-what-you-love-needs-a-prequel/</guid>
-      <description>“To do something well you have to like it,” Paul Graham famously wrote. This advice can come like a friendly slap in the face. Of course! Striving to excel in a domain that does not interest us is obviously silly. But are we capable of liking something long enough - and without grasping at it and suffocating it - to do it well?
-Some thoughts from others:
-Andrew Yang: “They need status and reassurance…They think in two years, not 20. …They get agitated if they’re not making clear progress…They fear being wrong and looking silly…They talk themselves out of having guts&amp;hellip;They worry too much.</description>
-    </item>
+        <item>
+        <title>About</title>
+        <link>https://sunilvrao.com/about/</link>
+        <pubDate>Fri, 04 Dec 2020 12:41:09 -0500</pubDate>
+        
+        <guid>https://sunilvrao.com/about/</guid>
+        <description>A Hugo Site https://sunilvrao.com/about/ -&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Starting small, at last. Building tools for learning better. Proprietor of Rao Athletic Club. Reading and writing widely.&lt;/p&gt;
+&lt;p&gt;Previously, I’ve worked in strategic planning at Verizon, done sales and digital marketing at a fintech startup, tried (and failed spectacularly at) finding endorsement deals for Brazilian soccer players, and worked in investment banking at Morgan Stanley.&lt;/p&gt;
+- https://sunilvrao.com/about/ - This is a customized copyright.</description>
+        </item>
     
-    <item>
-      <title>Hopelessly half-baked study guide #2: Classical Antiquity...</title>
-      <link>https://sunilvrao.com/post/blasphemously-brief-guide-1-classical-antiquity/</link>
-      <pubDate>Tue, 06 Oct 2020 22:00:27 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/blasphemously-brief-guide-1-classical-antiquity/</guid>
-      <description>&amp;hellip;the Greco-Roman world, centered on the Mediterranean, of the 8th century BC and the 6th century AD. Why is the classical antiquity period significant?
-Western civilization - modernity - was born of a mix of the classical and the Christian. And the recent history of the world - for the last several hundred years, until recently - has been the history of westernization or modernization of the whole world: scientific ideas/methods, new ways of thinking, military technology, and public administration fueling greater power and wealth. Previous ancient civilizations did some science for very practical purposes, but on the whole relied upon myths and superstitions to “understand” the world.</description>
-    </item>
     
-    <item>
-      <title>Hopelessly half-baked study guide #1: takeaways from “Political Economy 101”</title>
-      <link>https://sunilvrao.com/post/takeaways-from-political-economy-101/</link>
-      <pubDate>Thu, 10 Sep 2020 14:43:34 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/takeaways-from-political-economy-101/</guid>
-      <description>A few months ago, I set out to give myself an introduction to “something like” political economy. It was a conveniently vague way to assemble a reading plan around some things I’d been wanting to read for a while at the intersection of philosophy, economics, history and technology.
-Though a bit scattered, doing this surfaced a few distinct topics and questions for me to pursue in future:
-1. Epistemology, or the “theory of knowledge.” “…reputed to be the most abstract and remote and altogether irrelevant region of pure philosophy. Hume, for example, one of the greatest thinkers in [epistemology] predicted that, because of the remoteness and abstractness and practical irrelevance of some of his results, none of his readers would believe in them for more than an hour,” said Karl Popper.</description>
-    </item>
     
-    <item>
-      <title>It’s Time to Play</title>
-      <link>https://sunilvrao.com/post/its-time-to-play/</link>
-      <pubDate>Fri, 28 Aug 2020 02:27:11 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/its-time-to-play/</guid>
-      <description>If today’s toys are tomorrow&amp;rsquo;s tech, then we must also start to play. Building on Marc Andreesen’s landmark essay, Tanner Greer identifies the source of our inability to build in recent cultural and social changes. A culture that seeks to solve problems by persuading and deferring to authorities, as we seem to do now - rather than through individual or collective self-reliance, as we used to in this country - will not build. “The real question,” Greer says, “is whether we will be able to rebuild a building culture.&amp;quot;
-Amidst our apparent national decline, Greer and Andreesen provide inspiration to move forward.</description>
-    </item>
+        <item>
+        <title>Hopelessly half-baked study guide #3: The Kegan Model</title>
+        <link>https://sunilvrao.com/post/hopelessly-half-baked-study-guide-3-the-kegan-model/</link>
+        <pubDate>Wed, 18 Nov 2020 04:04:51 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/hopelessly-half-baked-study-guide-3-the-kegan-model/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/hopelessly-half-baked-study-guide-3-the-kegan-model/ -&lt;p&gt;Several friends and mentors of mine have suffered the misfortune of lending me their ears during my Kegan phase. For the uninitiated, Robert Kegan has proposed a fascinating and encouraging model of psychological development that continues well into adulthood - which, one learns, was not previously generally accepted. This is sort of a cheat-post - I repurpose what I wrote from an email exchange my attempt (only what I wrote) to put Kegan’s work in my words and reflect on it’s applicability, lightly edited for clarity. &lt;/p&gt;
+&lt;p&gt;My main sources were Kegan’s &lt;em&gt;In Over Our Heads: The Mental Demands of Modern Life&lt;/em&gt;, and of course &lt;a href=&#34;https://vividness.live/2015/10/12/developing-ethical-social-and-cognitive-competence/&#34;&gt;David Chapman’s piece on the Kegan model&lt;/a&gt;, which provides a much better and deeper summary. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;…I just read his book called &lt;em&gt;In Over Our Heads&lt;/em&gt;. Still reverberating&amp;hellip;both for how it reframes how I see the world, how I look at myself, and how it overlaps with some Buddhist books I&amp;rsquo;ve been reading&amp;hellip;&lt;/p&gt;
+&lt;p&gt;The argument is basically that we need to evolve to be &amp;ldquo;self-authoring&amp;rdquo; individuals in order to thrive in work and personal life today, but most of us remain stuck in a more &amp;ldquo;communal&amp;rdquo; mode. In this communal mode, we &lt;em&gt;are&lt;/em&gt; our relationships and what&amp;rsquo;s expected of us&amp;hellip;whereas in the self-authoring mode, we deliberately &lt;em&gt;choose&lt;/em&gt; or &lt;em&gt;have&lt;/em&gt; our relationships and projects&amp;hellip;similar to how an experienced meditator can separate himself from his thoughts and feelings, and consider them almost at a distance, instead of getting ridden around and pulled apart by thoughts and feelings. &lt;/p&gt;
+&lt;p&gt;The argument continues: the notion that we have a discrete &amp;ldquo;self&amp;rdquo; that we can rationally conduct isn&amp;rsquo;t fully true either, but &amp;ldquo;self-authorship&amp;rdquo; is necessary stepping stone to further development, and by attacking rationality/modernity, postmodernism has made self-authorship more difficult. And a key is that getting to the next stage is not a matter of simply acquiring new information, but a matter of basically changing your mental operating system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On putting the Kegan model into action&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;…interesting&amp;hellip;how a paradigm can seem true and be convincing but not be actionable. I&amp;rsquo;ve definitely had experience before with other psychology/cultural commentary/related books, even ones that suggested particular exercises or ways to take action.&lt;/p&gt;
+&lt;p&gt;At least at the individual level, this Kegan theory seems actionable. The basic &amp;ldquo;act&amp;rdquo; is to become more aware, and pair that with a push to become more resourceful and self-reliant. I&amp;rsquo;m reminded a lot of this passage in a Buddhist book I read recently, &lt;a href=&#34;http://arobuddhism.org/books/emailing-the-lamas-from-afar.html&#34;&gt;&lt;em&gt;E-mailing the Lamas from Afar&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;Apprentice:&lt;/em&gt; I do tend to get overwhelmed, and worry intensely about things . . . then get depressed when I cannot bear the level of worry, and &lt;em&gt;overanalyse&lt;/em&gt;, and it would be good to stop all this.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;Lama:&lt;/em&gt; If you see this as a pattern, then that perception is called practice. The function of practice with regard to pattern is simply to recognise the pattern and allow the pattern to dissolve…Yes – depression is slipping out the back door with regard to failure to see the cerebral patter of the pattern. If you identify with the pattern then the pattern becomes an identity card…The only requirement is to sit and let go of whatever arises…In the silence of sitting, pattern becomes naked – and, seen for what it is, collapses.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And to the point of contemporary politics&amp;hellip;I&amp;rsquo;m reminded of the notion of &amp;ldquo;not taking things personally.&amp;rdquo; It&amp;rsquo;s such obviously important but difficult advice&amp;hellip;an interesting implication of the Kegan model is that a &amp;ldquo;socialized mind&amp;rdquo; can &lt;em&gt;only&lt;/em&gt; take things personally. E.g., if I &lt;em&gt;am&lt;/em&gt; my belief - instead of a self &lt;em&gt;having&lt;/em&gt; a belief - then every opposing view is by definition an existential threat. &lt;/p&gt;
+&lt;p&gt;At the societal level, it does look much less actionable. In the book he does walk through some examples of classroom teachers effectively vs. ineffectively supporting students&#39; transition from socialized to self-authoring mind. Hard to believe there are enough grade school teachers skilled enough/paid enough for us to get there as a society. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;11/17 update: I&amp;rsquo;m not sure I believe my pessimism from that last paragraph anymore. Plenty of ways to become more self-authoring outside of the classroom. &lt;a href=&#34;https://startingstrength.com/training/training-for-life&#34;&gt;Accomplishing hard things - not the outcome of that endeavor, but the imprint of the experience - can change the game too.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+- https://sunilvrao.com/post/hopelessly-half-baked-study-guide-3-the-kegan-model/ - This is a customized copyright.</description>
+        </item>
     
-    <item>
-      <title>Trade globally, love locally.</title>
-      <link>https://sunilvrao.com/post/trade-globally-love-locally/</link>
-      <pubDate>Thu, 27 Aug 2020 22:28:46 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/trade-globally-love-locally/</guid>
-      <description>A short summary of Russ Roberts&#39; How Adam Smith Can Change Your Life Self-interest and incentives are how we take care of people we don’t know and organize large-scale systems. This is the subject matter of the Wealth of Nations. But we must also practice virtue, conscience, warmth, dignity, nobility amongst our inner circles in order to live a good life. This is the subject of the Theory of Moral Sentiments. The Wealth of Nations and Theory of Moral Sentiments, while seemingly opposing each other, simply treat different spheres of human interactions. Dysfunction emerges when we try to extend familial intimacy beyond our close circles, as much as we may crave familial warmth and trust in/from our commercial, work, political relationships and establishments.</description>
-    </item>
     
-    <item>
-      <title>The link between antitrust and inequality</title>
-      <link>https://sunilvrao.com/post/the-link-between-antitrust-and-inequality-jonathan-teppers-the-myth-of-capitalism/</link>
-      <pubDate>Tue, 18 Aug 2020 16:11:30 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/the-link-between-antitrust-and-inequality-jonathan-teppers-the-myth-of-capitalism/</guid>
-      <description>The Myth of Capitalism, by Jonathan Tepper In summary: Current, unacceptable levels of inequality stem from the deterioration of antitrust enforcement and the subsequent “toll road-ization” of the American economy. Mergers permitted without scrutiny, oligopoly proliferates; workers, customers, suppliers get squeezed. This deterioration was driven by revolving doors, cronyism, and Chicago economic philosophy. This is all exacerbated by concentrated ownership of these toll roads by the wealthy.
-Questions &amp;amp; Review Tepper&amp;rsquo;s story is enticingly simple. Basically, we just need to restore antitrust enforcement. It is hard to disagree with Tepper&amp;rsquo;s narrative of recent economic developments, but I suspect there is more to the story.</description>
-    </item>
     
-    <item>
-      <title>Tools for thought = mental bureaucracy?</title>
-      <link>https://sunilvrao.com/post/tools-for-thought-mental-bureaucracy/</link>
-      <pubDate>Sun, 16 Aug 2020 17:00:15 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/tools-for-thought-mental-bureaucracy/</guid>
-      <description>*This is a hot take, quite happy to be disagreed with and told why I&amp;rsquo;m wrong*
-I think focusing on using tools for thought can easily turn into the construction of a suffocating educational bureaucracy. It’s utopian high-modernism applied to independent learning.
-What if it’s better to just learn things that really makes us burn with curiosity and desire, that make us want to keep building on that foundation and go deeper. The subject matter itself, in combination with our lifestyles (work, or random observations) should provide plenty of motivation for us to keep digging - such that we naturally reinforce our learning without needing to plan or systematize the necessary reinforcement.</description>
-    </item>
+        <item>
+        <title>A simple redo log for the GMAT</title>
+        <link>https://sunilvrao.com/projects/a-simple-redo-log-for-the-gmat-copy/</link>
+        <pubDate>Thu, 12 Nov 2020 03:30:33 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/projects/a-simple-redo-log-for-the-gmat-copy/</guid>
+        <description>A Hugo Site https://sunilvrao.com/projects/a-simple-redo-log-for-the-gmat-copy/ -&lt;p&gt;One of my teachers during freshman year of high school encouraged us to write down at the end of each day what we&amp;rsquo;d learned that day, as a way to internalize new concepts.&lt;/p&gt;
+&lt;p&gt;It was a nice idea. Wish I could say I followed through!&lt;/p&gt;
+&lt;p&gt;Fast forward twelve (!!) years later, and my GMAT instructor emphasizes that keeping an error log and redoing problems is &lt;a href=&#34;https://www.manhattanprep.com/gmat/blog/error-log-the-1-way-to-raise-your-gmat-score/&#34;&gt;the #1 way to raise your GMAT Score.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This time around, I listened up. In hindsight, I probably could have done an even better job committing to my redo&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;Problems would pile up on the error log. I would set up an initial redo date, but soon after, redo&amp;rsquo;s fell by the wayside. Who wants to play with old toys when you get new toys every week? Redo&amp;rsquo;s were too easy to put off.&lt;/p&gt;
+&lt;p&gt;So, I made a simple tool to help you make sure you actually redo the necessary problems, when you&amp;rsquo;re supposed to do them. Think of it as an accountability system for &lt;em&gt;actually learning&lt;/em&gt;. The redo’s are scheduled for you, based on the date of your initial attempts at questions. And if you don&amp;rsquo;t do them, an ugly, red empty checkbox will stare at you every time you begin GMAT studies. YOU SHALL NOT PASS.&lt;/p&gt;
+&lt;p&gt;Think how much more powerful our learning investments (as both educators and learners) might be if we really devoted the necessary energy to actively recalling new material in subsequent weeks?&lt;/p&gt;
+- https://sunilvrao.com/projects/a-simple-redo-log-for-the-gmat-copy/ - This is a customized copyright.</description>
+        </item>
     
-    <item>
-      <title>Build Local Soccer</title>
-      <link>https://sunilvrao.com/post/build-local-soccer/</link>
-      <pubDate>Thu, 06 Aug 2020 20:09:10 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/build-local-soccer/</guid>
-      <description>We don’t just tune into the Premier League for the highest-quality soccer. Or for the fantastic coverage team at NBC. Or even for Kyle Martino’s earring.
-We also tune in so that we can take part in European soccer culture. It’s the pageantry, the songs, the chants, the pasty-faced British guys who just got out of the same pre-match pub their grandfathers went to. All these mark a sense of tradition, loyalty between club and community, and community ownership of the the club - if not in financial or legal terms, than at least in spirit - that predate big-time commercialization of the sport.</description>
-    </item>
     
-    <item>
-      <title>Building win-win commercial gyms</title>
-      <link>https://sunilvrao.com/projects/building-win-win-commercial-gyms/</link>
-      <pubDate>Mon, 20 Jul 2020 20:41:23 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/projects/building-win-win-commercial-gyms/</guid>
-      <description>The premise: Commercial gyms generally want you to buy a subscription and never use it. More than 70 million Americans had a gym membership last year, but only 18% went consistently. All 70 million paid an average of $58 per month for their membership. And if you do go - especially at a reasonable hour - the equipment you need could be occupied. We’re seriously still doing this?
-For many, home/outdoor fitness does the job. Many of us are familiar with P90X or, more recently, things like Mirror, that require minimal equipment. And perhaps the pandemic will accelerate the trend towards non-gym fitness.</description>
-    </item>
     
-    <item>
-      <title>Yes-and political economy: notes on Breaking Smart, Season 1.</title>
-      <link>https://sunilvrao.com/post/yes-and-political-economy-notes-on-breaking-smart-season-1/</link>
-      <pubDate>Thu, 16 Jul 2020 19:18:32 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/yes-and-political-economy-notes-on-breaking-smart-season-1/</guid>
-      <description>Ride the software wave or cling to a sinking ship
-Software is a rare general-purpose soft technology (writing, money) that is transforming, upending the industrial social order, creating dramatic win-lose situations based on who appreciates and gets on the right side of its impact.
-We’re just at the beginning - infra has only just gotten in place for deployment, it operates under other labels (e.g. genomics innovation driven by software), and has been driven by politically non-confrontational youth.
-We’ve previously been rewarded for our credentials, but now we are rewarded for what we make. Will you adapt or cling to a sinking ship?</description>
-    </item>
+        <item>
+        <title>Highlights that don&#39;t make the reel</title>
+        <link>https://sunilvrao.com/post/highlights-that-dont-make-the-reel/</link>
+        <pubDate>Mon, 26 Oct 2020 01:56:11 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/highlights-that-dont-make-the-reel/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/highlights-that-dont-make-the-reel/ -&lt;p&gt;The headlines after the 0-0 draw at Old Trafford were sadly predictable. “Man United, Chelsea show why Premier League title challenge is beyond them.”&lt;/p&gt;
+&lt;p&gt;My favorite shot from that game (though let’s be honest it didn’t have much competition…tehe) was of Thiago Silva and Edinson Cavani connecting after the final whistle. Silva puts his hand on his former teammate’s shoulder…you can imagine these guys have so much to talk about. The warmth is obvious. Both approaching the end of their playing careers, embarking on perhaps their final adventures at the elite level and, you’d imagine, plainly interested in how the other guy is doing and adjusting to his new situation.&lt;/p&gt;
+&lt;p&gt;I’m reminded of this &lt;a href=&#34;https://www.theguardian.com/football/2018/may/18/bojan-krkic-interview-anxiety-attacks-football&#34;&gt;fabulous interview with Bojan Krkic&lt;/a&gt;, a player who’s career took unexpected turns after breaking Messi’s record of youngest ever debutant with Barcelona: &lt;/p&gt;
+&lt;p&gt;“And the most important thing isn’t the trophies, it’s the experiences, what you lived, what’s here in your heart, what you know, what you live. No one can ever steal that from you. And those people who spoke ill of you, they’ll forget. If Víctor Valdés, the greatest goalkeeper in Barcelona’s history, has been forgotten, how could they not forget me?&lt;/p&gt;
+- https://sunilvrao.com/post/highlights-that-dont-make-the-reel/ - This is a customized copyright.</description>
+        </item>
     
-    <item>
-      <title>Introduce spaced repetition for more learning on Brilliant</title>
-      <link>https://sunilvrao.com/projects/introduce-spaced-repetition-for-more-learning-on-brilliant/</link>
-      <pubDate>Tue, 14 Jul 2020 18:04:07 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/projects/introduce-spaced-repetition-for-more-learning-on-brilliant/</guid>
-      <description>I’ve been using Brilliant for a few weeks now. In the last few years, reading the works of Nassim Taleb on probability, randomness and complex systems rekindled my desire to learn probability and statistics. Instead of brushing off some rather dreary-looking textbooks in order to refresh my foundations, I decided to turn to Brilliant instead after stumbling upon its wonderful culture page.
-The emphasis on learning by doing has been refreshing. I appreciate that Brilliant provides instruction along the way instead of dumping it upfront. And I never fail to appreciate the reminders after I get a problem wrong…that without getting stumped, there is no learning!</description>
-    </item>
     
-    <item>
-      <title>A very (very very) short introduction to socialism</title>
-      <link>https://sunilvrao.com/post/a-very-very-very-short-introduction-to-socialism/</link>
-      <pubDate>Sun, 05 Jul 2020 19:05:52 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/a-very-very-very-short-introduction-to-socialism/</guid>
-      <description>My notes on the first section of OUP&amp;rsquo;s Socialism: A Very Short Introduction, which covers socialism&amp;rsquo;s various theories and traditions The general idea  Commitment to the creation of an egalitarian society (equality of resources, rights, opportunities). That inheritance of capital/wealth provides a few with immense privilege; meanwhile, a cycle of deprivation limits opportunities and influence for the rest. Ergo, private property prevents any hope of equality. Optimistic view of human beings’ willingness to cooperate with one other on large scale. Emphasis community, cooperation and association; as compared to liberalism’s commitment to individualism.  Origins  Reaction to 19th-century urbanization and industrialization (coercion of workers, massive inequality).</description>
-    </item>
     
-    <item>
-      <title>Under the yoke of growth: Timothy Shenk&#39;s essay, &#34;Apostles of Growth&#34;</title>
-      <link>https://sunilvrao.com/post/under-the-yoke-of-growth/</link>
-      <pubDate>Thu, 18 Jun 2020 21:44:57 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/under-the-yoke-of-growth/</guid>
-      <description>Summary and takeaways from the Timothy Shenk essay in The Nation. Historians of capitalism describe the discovery of deliberate economic growth its consequences. They chronicle the operations of the “relentless logic of capitalism,” and how growth has became (and remains) our master at the expense of a commitment to justice.
-The point that growth has become our master seems true to me. At company-level and federal level, we seem to contort ourselves and our environments to show growth. But why should we dependent on growth to avoid collapse? This rings of Eric Weinstein’s comments about the “growth imperative.” Whether it’s because of technology, crony capitalism, inflationary policy, borrowing too much, borrowing from the young, borrowing from China…</description>
-    </item>
+        <item>
+        <title>“How to Do What You Love” needs a prequel</title>
+        <link>https://sunilvrao.com/post/how-to-do-what-you-love-needs-a-prequel/</link>
+        <pubDate>Thu, 22 Oct 2020 01:29:30 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/how-to-do-what-you-love-needs-a-prequel/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/how-to-do-what-you-love-needs-a-prequel/ -&lt;p&gt;“To do something well you have to like it,” &lt;a href=&#34;http://www.paulgraham.com/love.html&#34;&gt;Paul Graham famously wrote&lt;/a&gt;. This advice can come like a friendly slap in the face. Of course! Striving to excel in a domain that does not interest us is obviously silly. &lt;/p&gt;
+&lt;p&gt;But are we capable of liking something long enough - and without grasping at it and suffocating it - to do it well?&lt;/p&gt;
+&lt;p&gt;Some thoughts from others:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholars-stage.blogspot.com/2019/12/the-problem-isnt-merit-its-ocracy.html&#34;&gt;Andrew Yang&lt;/a&gt;: “They need status and reassurance…They think in two years, not 20. …They get agitated if they’re not making clear progress…They fear being wrong and looking silly…They talk themselves out of having guts&amp;hellip;They worry too much.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://spacious-passion.org/shared/text/s/spacious_passion_ch_04_coming_05_jealous_eng.php&#34;&gt;Ngakma Nordzin&lt;/a&gt;: “the jealous gods are actively ambitious—but they lack potency and commitment. Their need to always check that everything is going in the right direction pollutes the non-dual potential of their energy. Their dualistic view results in a nervous frenzy of continual observation and assessment. They have to be sure that they are keeping an eye on all aspects of their situation. This frenetic activity cramps and constricts the flow of energy that could accomplish whatever it set out to achieve.”&lt;/p&gt;
+- https://sunilvrao.com/post/how-to-do-what-you-love-needs-a-prequel/ - This is a customized copyright.</description>
+        </item>
     
-    <item>
-      <title>Is political freedom limited by economic freedom? Notes on Hayek&#39;s &#34;The Road to Serfdom.&#34;</title>
-      <link>https://sunilvrao.com/post/is-political-freedom-limited-by-economic-freedom-notes-on-hayeks-the-road-to-serfdom/</link>
-      <pubDate>Mon, 15 Jun 2020 18:16:01 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/is-political-freedom-limited-by-economic-freedom-notes-on-hayeks-the-road-to-serfdom/</guid>
-      <description>2-sentence summary: Socialism is incompatible with freedom. It leads to fascism and dictatorship.
-Observations and avenues for further investigation  I wonder if Hayek mischaracterizes the socialist/egalitarian view on economic freedom and its relation to political freedom…If he underestimates the importance of / extent to which society must go to support every individual’s economic freedom in order to assure political freedom. Socialism seems &amp;ldquo;nice.&amp;quot; We get to bathe in our good intentions, celebrate our niceness and shared values. Easy to imagine how this backfires. Investigate to what extent Hayek’s framework holds up&amp;hellip;as it pertains to his argument that socialism really does end in fascism/dictatorship, and on the origins of monopoly.</description>
-    </item>
     
-    <item>
-      <title>Toni Morrison’s &#34;Sula&#34; &amp; playing with meaning</title>
-      <link>https://sunilvrao.com/post/toni-morrisons-sula-playing-with-meaning/</link>
-      <pubDate>Sun, 14 Jun 2020 17:43:36 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/toni-morrisons-sula-playing-with-meaning/</guid>
-      <description>This was my first Toni Morrison book, and it was magnificent. It is clear as you read it that a master is at work. You feel you are in the palm of her hand, and you like it that way.
-Horrifying and painful yet life-affirming all at once. Dramatic but in a playful, deft way. Compassionate but not pitying. Pensive but not preachy or judgmental. Especially on this last note - this novel brought back to mind David Chapman’s schematic of predominant stances toward meaning. I think the lens of this schematic helped me to more deeply appreciate the novel. The intertwining of Nel and Sula’s lives is in a way the interplay of eternalist and nihilist-ish philosophies.</description>
-    </item>
     
-    <item>
-      <title>CBT for economic history: Albert Hirschman on &#34;Political Economics and Possibilism&#34;</title>
-      <link>https://sunilvrao.com/post/cbt-for-economic-history-albert-hirschman-on-political-economics-and-possibilism/</link>
-      <pubDate>Fri, 12 Jun 2020 21:32:23 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/cbt-for-economic-history-albert-hirschman-on-political-economics-and-possibilism/</guid>
-      <description>Summary  We tend to be short-sighted, impractical and overly pessimistic interpreters and agents of change. The search for (and the assumption that there exist) general laws whose continuous unfolding explains change over time can backfire. By passing history through his “possibilist” filters, Hirschman “[defends] the right to a nonprojected future as one of the truly inalienable rights of every person and nation.”  How this squares with other perspectives:  This squares nicely with Taleb’s view that “we are better at doing than explaining” and his low opinion of the “Soviet-Harvard complex,” as well as with Hayek’s talk of “man’s fatal striving to control society.</description>
-    </item>
+        <item>
+        <title>Hopelessly half-baked study guide #2: Classical Antiquity...</title>
+        <link>https://sunilvrao.com/post/blasphemously-brief-guide-1-classical-antiquity/</link>
+        <pubDate>Tue, 06 Oct 2020 22:00:27 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/blasphemously-brief-guide-1-classical-antiquity/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/blasphemously-brief-guide-1-classical-antiquity/ -&lt;h4 id=&#34;the-greco-roman-world-centered-on-the-mediterranean-of-the-8th-century-bc-and-the-6th-century-ad&#34;&gt;&amp;hellip;&lt;strong&gt;the Greco-Roman world, centered on the Mediterranean, of the 8th century BC and the 6th century AD&lt;/strong&gt;.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Why is the classical antiquity period significant?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Western civilization - modernity - was born of a mix of the classical and the Christian. And the recent history of the world - for the last several hundred years, until recently - has been the history of westernization or modernization of the whole world: scientific ideas/methods, new ways of thinking, military technology, and public administration fueling greater power and wealth. &lt;/p&gt;
+&lt;p&gt;Previous ancient civilizations did some science for very practical purposes, but on the whole relied upon myths and superstitions to “understand” the world. The Greeks invented critical thinking / systematic inquiry. This “rare, general-purpose, soft-technology” - like writing or money, to borrow Venkatesh Rao’s term - flowered into advances in math, science, philosophy, history and politics. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What do we mean when we say that “the Greeks invented _________?”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Critical thinking&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It meant methodically searching for logical (e.g. chain of humanly verifiable “why’s” and “because’s”) and coherent explanations for the nature of things; questioning and rejecting religious pronouncements and superstitions.&lt;/p&gt;
+&lt;p&gt;To think critically supposes that there is a logic to how things work as well as confidence in human powers to uncover the logic of these workings and use them to actively influence life on earth. And in so doing, become more free and powerful. No longer were they at the mercy of whimsical gods.&lt;/p&gt;
+&lt;p&gt;I think we take this for granted today. The availability and importance of critical inquiry makes Greeks very contemporary and familiar, and others from different periods/places in history all the more unfamiliar and strange. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;History&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Close observation of events and and discernment of causation so as to more effectively influence human affairs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Politics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Greeks created the first city-states with strong identity, cultural unity, sense of shared public interest (the &lt;em&gt;polis&lt;/em&gt;). Much larger proportion took part in public life compared to other ancient civs. Beginning of deliberative bodies made up of citizens, making big collective decisions. None of this existed before.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Science&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Systematic deployment of observation and reasoning.&lt;/p&gt;
+&lt;p&gt;Observation —&amp;gt; Interpretation of observation —&amp;gt; Active experimentation to further verify/deny.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why is it useful to know about classical antiquity today?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Not to take human flourishing, rationality, and science for granted…it’s the exception, not the rule. Magee says they weren’t equalled until the Germans 18th-20th century. And it’s cool to know where we come from, allows us to better evaluate our current methods and institutions when we see them as the result of human intention/interaction. &lt;/p&gt;
+&lt;p&gt;A conservative interpretation / argument for keeping politics small from Gay &amp;amp; Webb:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We start out with ferocious curiosity, rationality. We have the polis. [And these two are connected.] Man’s participation (to be sure, an elite man) in the polis - local patriotism - was seen as his highest duty by Plato, Aristotle. But when the Greek polis gives way to impersonal empire, where individual influence is low, you get the Hellenistic schools…the priority shifts to “enduring and withdrawing”…does this lead to systematic passivity, which made the Greeks vulnerable to energetic, self-confident barbarians: the Romans…?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is an interesting argument, I’m not convinced that the Hellenistic school grows as a way to respond to larger, more impersonal political structure…but I can see how this might rhyme with Stoicism’s contemporary resurgence, even if I don’t really think it’s rhyme’s strongly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How did Greek civilization spread?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ironically, it was spread by the Macedonians who ultimately conquered/ended the flowering of Greek culture. In the 4th century BC, with the polises weakened by internal wars, Philip II of Macedon (a Greek-speaking place but not really considered Greek by the rest of the Greeks) conquers Greece, ending the age of the city states. Alexander the Great would spread Greek civilization near and far, Europe and Asia, creating what we know as the “Hellenistic world.”&lt;/p&gt;
+&lt;p&gt;It was during this “Hellenistic Age,” following Alexander’s death in the 4th century BC, that Stoicism - the first moral philosophy, which provided the first known condemnation of slavery - arose, which would become extremely influential for centuries amongst the elite of Rome. (Though it seems Gay &amp;amp; Webb would disagree re: whether Stoicism counts as part of the ultimate flowering of Greek culture…their view echos the 1517 view of it.)&lt;/p&gt;
+&lt;p&gt;—&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why is Ancient Rome significant?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“To provide regular, lawful government over a wider area than ever before, to black, white, brown ‘Romans’ equally, and to assure them also peace and prosperity”…this was unprecedented at the time. [JMR] In the Augustan age, leading families from various provinces (Gaul, Syria, Africa, Illyria) were “romanized”…they all shared in a sense of Roman heritage, unified civilization. &lt;/p&gt;
+&lt;p&gt;We’re indebted to their political arrangements and legal doctrines - the sovereign ruler and of a public order under law - for our emergence from feudalism in 13th, 14th century Europe onward. [G&amp;amp;W] Modern Europe would feed on the Roman legacy/mythology of civic principles (citizenship) and republicanism. Not that citizenship/republicanism withstood or had much to do with the growth of the Roman Empire. [JMR]&lt;/p&gt;
+&lt;p&gt;Though they conquered the Greeks militarily, culturally they were “reverse-conquered” by the Greeks culturally, and would carry forward Greek heritage to the future. Similarly, Rome accelerated the growth of Christianity, anchoring it in Rome and rooting it in Latin. [G&amp;amp;W]&lt;/p&gt;
+&lt;p&gt;Though they didn’t contribute much to science, they left behind magnificent feats of engineering, monuments, architecture (aqueducts, central heating, under-floor heating, roads).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How did the Roman Republic turn into the Roman Empire?&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Republicanism caves in to plutocracy
+&lt;ol&gt;
+&lt;li&gt;The numbers of impoverished citizens with votes to be bought grew, as people outside the original territories were granted citizenship, and the Punic Wars’ impact devastated the Italian countryside and undercut small, independent farmers. &lt;/li&gt;
+&lt;li&gt;In parallel, politicians gained the wealth to buy votes in newly conquered territory, where they could become governors and generals and receive taxes.&lt;/li&gt;
+&lt;li&gt;Popular assemblies in Rome no longer had the same power.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Professionalizaton of war paves the way for warlords.
+&lt;ol&gt;
+&lt;li&gt;The Roman armies became full-time, and grew apart from the republic. Soldiers felt loyalty to their comrades and generals then to the republic. Constant wars of expansion made way for warlords&lt;/li&gt;
+&lt;li&gt;This set the scene for Julius Caesar in the 1st century BC.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;What’s the big deal about the Roman Empire? Or is there more to the story?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It’s renown for achieving rule of law over a wide and diverse area. Caesar Augustus was the most influential architect here. But the empire existed to extract from new territories for the benefit of a few influential Italians and the people of Rome. And this parasitism made use of slavery. And the enforcement of law was harsh - though to be fair, the spirit of the laws were not necessarily so intolerant…they did not prosecute blasphemy like the later, more Christian Roman Empire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why did it decline?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The decline of the Roman Empire coincided with the triumph of the Christian and the Church over the Classical and the Roman Empire. Emerging church fathers, themselves Roman (e.g. Augustine), rejected the “temptation to put the things of this world [Classical culture, Rome as a city] above the things of heaven” and “man’s ultimate realities.” [G&amp;amp;W]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why is it useful to know about Ancient Rome today?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It’s often looked at as a case study for what makes a political entity grow immensely wealthy and powerful and then ultimately decay.&lt;/p&gt;
+&lt;p&gt;A doctrine of unworldly or super-worldliness marked the decay of the Roman Empire, the same way the Hellenistic schools marked the decay of the Greeks? Parallels to today?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How/Why did Christianity become so influential?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TBU. That it started as a small fringe group and now has 2+ billion adherents is &lt;em&gt;wild&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A probably unrealistic syllabus&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Modern Europe to 1815&lt;/em&gt; - Gay &amp;amp; Webb&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A History of Europe&lt;/em&gt; - J.M. Roberts&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Classical World: An Epic History from Homer to Hadrian&lt;/em&gt; - Robin Lane Fox&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Rubicon&lt;/em&gt; - Tom Holland&lt;/li&gt;
+&lt;/ul&gt;
+- https://sunilvrao.com/post/blasphemously-brief-guide-1-classical-antiquity/ - This is a customized copyright.</description>
+        </item>
     
-    <item>
-      <title>Summarizing Russ Roberts&#39; &#34;Gambling with Other People&#39;s Money&#34;</title>
-      <link>https://sunilvrao.com/post/summarizing-russ-roberts-gambling-with-other-peoples-money/</link>
-      <pubDate>Fri, 05 Jun 2020 14:13:52 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/summarizing-russ-roberts-gambling-with-other-peoples-money/</guid>
-      <description>Summary The government bailed out debt-holders in a series of bank failures in the 70&amp;rsquo;s through the 90&amp;rsquo;s, signaling an implicit guarantee of creditors. This implicit guarantee combined with a politician-driven effort starting in the 90’s to orchestrate an increase in homeownership led to excessive use of leverage by Wall Street and aspiring homeowners to finance increasingly risky investments in housing in the 00&amp;rsquo;s. This in turn allowed Wall Street and politicians to privatize gains ($$, votes) and socialize eventual losses to taxpayers. The use of excessive leverage turns a failure into a meltdown. Rescues distort the natural feedback loop of capitalism.</description>
-    </item>
     
-    <item>
-      <title>Notes on Hayek&#39;s &#34;The Pretense of Knowledge&#34; (1974)</title>
-      <link>https://sunilvrao.com/post/notes-on-hayeks-the-pretense-of-knowledge-1974/</link>
-      <pubDate>Mon, 01 Jun 2020 19:02:39 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/notes-on-hayeks-the-pretense-of-knowledge-1974/</guid>
-      <description>Key Takeaways:
- “men’s fatal striving to control society—a striving which makes him not only a tyrant over his fellows, but which may well make him the destroyer of a civilization which no brain has designed but which has grown from the free efforts of millions of individuals.” No knowledge &amp;gt; some “knowledge” if it forces you to act with some humility and avoid decisions with big, unintended, difficult-to-reverse, negative consequences Gardener &amp;gt; Craftsman, when it comes to social order. Gardeners cultivating an environment for plants, not like a craftsman shaping his handiwork. [You don’t need to understand the details of photosynthesis in order to have a beautiful gardener.</description>
-    </item>
     
-    <item>
-      <title>Reaction to Emily Wilson’s The Odyssey, Wonder and Education</title>
-      <link>https://sunilvrao.com/post/reaction-to-emily-wilsons-the-odyssey-wonder-and-education/</link>
-      <pubDate>Thu, 28 May 2020 21:38:25 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/reaction-to-emily-wilsons-the-odyssey-wonder-and-education/</guid>
-      <description>How I picked it up: Tyler Cowen named it his best book of 2018. Tyler called this a “joy to read” and praised Wilson’s introductory essay. I agree with this assessment, and I’ll add to this by singling out Wilson’ Translator’s Note, which I think is the book’s hidden gem:
-“When I was eight years old, my primary school put on a production of a (much-shortened) Odyssey, complete with costumes, song, and dance…It was a turning point in my life. I was enthralled by the production, not only because we could pretend to gouge out the headmaster’s eye (thrilling though that was), or just because I was cast to play a goddess (ditto), but because of the story and the atmosphere it evoked: a world of magic and adventure, of diverse cultures (both human and nonhuman, welcoming and murderous, foreign and familiar), and of an individual’s struggle to survive and return home.</description>
-    </item>
+        <item>
+        <title>Hopelessly half-baked study guide #1: takeaways from “Political Economy 101”</title>
+        <link>https://sunilvrao.com/post/takeaways-from-political-economy-101/</link>
+        <pubDate>Thu, 10 Sep 2020 14:43:34 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/takeaways-from-political-economy-101/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/takeaways-from-political-economy-101/ -&lt;p&gt;A few months ago, I set out to give myself an introduction to “something like” political economy. It was a conveniently vague way to assemble a reading plan around some things I’d been wanting to read for a while at the intersection of philosophy, economics, history and technology.&lt;/p&gt;
+&lt;p&gt;Though a bit scattered, doing this surfaced a few distinct topics and questions for me to pursue in future:&lt;/p&gt;
+&lt;h4 id=&#34;1-epistemology-or-the-theory-of-knowledge&#34;&gt;&lt;strong&gt;1. Epistemology, or the “theory of knowledge.”&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;“…reputed to be the most abstract and remote and altogether irrelevant region of pure philosophy. Hume, for example, one of the greatest thinkers in [epistemology] predicted that, because of the remoteness and abstractness and practical irrelevance of some of his results, none of his readers would believe in them for more than an hour,” said Karl Popper.&lt;/p&gt;
+&lt;p&gt;Epistemology doesn’t sound like a subject that you pick up for a bit of light reading. However, it’s one of the two repeated themes in my “syllabus,” and I’ll be investigating it more directly in the near future.&lt;/p&gt;
+&lt;p&gt;The limits of our ability to know make the ultimate argument for free markets and general optimism about the future. The cost of “what you know that just ain’t so” may be low in an experimental physics lab, but extraordinary and destructive in the context of policy-making, when you deal with human lives. We don’t actually have a great handle on what will cause change, so we shouldn’t fool ourselves that solutions are limited to our ability to imagine and predict them. And as the proliferation of software means that means of production grow more accessible and abundant, the need for planning shrinks. We can trust more in emergent order. This is a common thread underlying the work of Hayek, Popper, Taleb, Hirschman, and Rao.&lt;/p&gt;
+&lt;p&gt;However, in large part inspired by David Chapman’s work at Meaningness (and subsequent reading of Robert Kegan’s work), I realize I’m entering in the middle of things…Hayek, Taleb and co. vociferously critique the overuse and abuse of rationality, the ultimate tool of Modernity. While their arguments are compelling, my appreciation for the origins and fruits of rationality is relatively weak. So my next step will be to learn some Western philosophy/history, and more deliberately practice critical thinking.&lt;/p&gt;
+&lt;h4 id=&#34;2-cronyism--regulatory-capture&#34;&gt;2. &lt;strong&gt;Cronyism &amp;amp; regulatory capture&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Listen to Marc Andreesen, Chamath Palihapitiya, Russ Roberts, Nassim Taleb, Naval Ravikant…you’ll hear them all complain about cronyism and regulatory capture hinder innovation, economic performance, and social welfare and cohesion. An awareness of these issues seems to motivate their dedicated support of entrepreneurship. &lt;/p&gt;
+&lt;p&gt;They make a compelling narrative. There are good guys and bad guys. But it smells a bit too simple to me. I’m not convinced that companies or government officials are acting in bad faith, which suggests to me that there’s something more fundamental and impersonal going on. And outside of more entrepreneurship - hopefully provided with a democratizing tailwind in the form of software eating the world - it so far does not seem like a workable or even avoidable issue. Or maybe we just need to fight harder for antitrust enforcement? That also seems too simple…but maybe I’m wrong!&lt;/p&gt;
+&lt;p&gt;One specific question occurred to me while I read the following sentence in David Chapman’s &lt;a href=&#34;https://meaningness.com/metablog/communal-vs-systematic-politics&#34;&gt;Meaningness&lt;/a&gt;: &lt;/p&gt;
+&lt;p&gt;“Particularly in the past decade, more and more, the developed economies are devoted to &lt;a href=&#34;http://www.investopedia.com/terms/r/rentseeking.asp&#34;&gt;rent-seeking&lt;/a&gt;: systems that stand in the way of people doing useful things, and charge fees to let us past.”&lt;/p&gt;
+&lt;p&gt;This echoes Jonathan Tepper’s claims in &lt;em&gt;The Myth of Capitalism&lt;/em&gt;. As it applies to oligopolies and monopolies that receive explicit or implicit government support, I’m all in…down with the rent-seekers!&lt;/p&gt;
+&lt;p&gt;But, to what extent is rent-seeking in America endorsed or supported by some level of government, and to what extent have rent-seeking situations been achieved against the spirit or letter of the law? If the answer is “not so much,” on one hand I’d be glad to hear that cronyism and lawlessness don’t run so deep…but on the other hand, how could we justifiably regulate or limit rent-seeking dynamics that were earned fair and square?&lt;/p&gt;
+&lt;h4 id=&#34;syllabus&#34;&gt;&lt;strong&gt;Syllabus&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Russ Roberts - &lt;em&gt;How Adam Smith Can Change Your Life&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Hayek - &lt;em&gt;The Pretense of Knowledge&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Hayek - &lt;em&gt;The Road to Serfdom&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Nabeel Qureshi intro to Karl Popper&lt;/li&gt;
+&lt;li&gt;Popper - &lt;em&gt;The Poverty of Historicism&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Popper - &lt;em&gt;Conjectures and Refutations: The Growth of Scientific Knowledge&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Michael Newman - &lt;em&gt;Socialism: A Very Short Introduction&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Venkatesh Rao - &lt;em&gt;Breaking Smart, Season 1&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Timothy Shenk - &lt;em&gt;Apostles of Growth&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Russ Roberts - &lt;em&gt;Gambling with Other People’s Money&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Albert Hirschman - &lt;em&gt;Political Economics and Possibilism&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Jonathan Tepper - &lt;em&gt;The Myth of Capitalism&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Arvind Adiga - &lt;em&gt;The White Tiger&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+- https://sunilvrao.com/post/takeaways-from-political-economy-101/ - This is a customized copyright.</description>
+        </item>
     
-    <item>
-      <title>Something like political economy</title>
-      <link>https://sunilvrao.com/post/intro_political_economy/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/intro_political_economy/</guid>
-      <description>I&amp;rsquo;ve been an avid reader/listener of Marginal Revolution, EconTalk, Conversations with Tyler, and Nassim Nicholas Taleb&amp;rsquo;s works for a few years now.
-I took a handful of great classes at Stanford covering related subjects: &amp;ldquo;History of Capitalism&amp;rdquo; with Jennifer Burns, &amp;ldquo;American Economic History&amp;rdquo; with Gavin Wright, &amp;ldquo;The Relations Between Philosophical Enquiry and Historical Enquiry&amp;rdquo; with Rahul Chaudhri, and &amp;ldquo;Capitalism and its Discontents&amp;rdquo; with Sean Hanretta and J.P. Daughton.
-I read Niall Ferguson, Jonathan Levy, Albert Hirschman and Emma Rothschild books in my free time. I wrote a history thesis exploring the political ramifications of information technologies, as foreseen in the 60&amp;rsquo;s by Paul Baran.</description>
-    </item>
     
-    <item>
-      <title>My favorite writing guidance</title>
-      <link>https://sunilvrao.com/post/writing_guidance/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunilvrao.com/post/writing_guidance/</guid>
-      <description>David Barnett &amp;ldquo;Dear Anonymous, you&amp;rsquo;re not a failure. You&amp;rsquo;re a quitter.&amp;rdquo;
-Zadie Smith She was asked, &amp;ldquo;Do you have any secret techniques for overcoming self-doubt?&amp;rdquo;
-She replied: &amp;ldquo;As you know, there isn&amp;rsquo;t really any solution to self-doubt. In the end, you just have to write and doubt simultaneously.&amp;rdquo;
-Richard Osman &amp;ldquo;But then I made a deal with myself, and you will need to make this deal too. I chose to ignore the doubting voice for a month. Just one month. I made myself sit down for two hours a day and write. For me it was 1,000 words at a time.</description>
-    </item>
+    
+        <item>
+        <title>It’s Time to Play</title>
+        <link>https://sunilvrao.com/post/its-time-to-play/</link>
+        <pubDate>Fri, 28 Aug 2020 02:27:11 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/its-time-to-play/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/its-time-to-play/ -&lt;h5 id=&#34;if-todays-toys-are-tomorrows-tech-then-we-must-also-start-to-play&#34;&gt;If today’s toys are tomorrow&amp;rsquo;s tech, then we must also start to play.&lt;/h5&gt;
+&lt;p&gt;Building on Marc Andreesen’s &lt;a href=&#34;https://a16z.com/2020/04/18/its-time-to-build/&#34;&gt;landmark essay&lt;/a&gt;, &lt;a href=&#34;https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html&#34;&gt;Tanner Greer&lt;/a&gt; identifies the source of our inability to build in recent cultural and social changes. A culture that seeks to solve problems by persuading and deferring to authorities, as we seem to do now - rather than through individual or collective self-reliance, as we used to in this country - will not build. “The real question,” Greer says, “is whether &lt;em&gt;we&lt;/em&gt; will be able to rebuild a building culture.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Amidst our apparent national decline, Greer and Andreesen provide inspiration to move forward.&lt;/p&gt;
+&lt;p&gt;But in an attempt to reverse engineer previous highs, I wonder if we’ll forget a crucial ingredient. &lt;/p&gt;
+&lt;p&gt;We may summon our courage, cultivate individual and collective self-reliance, root out complacency, get harder and more serious, live up to the legacy of the Greatest Generation, and build…but this sounds like someone signing up for a gym membership on December 31st. Without the right attitude and intermediate rewards, will we stick with it?&lt;/p&gt;
+&lt;p&gt;I think Greer’s essay alludes to the seed of the attitude that can drive individual and national renewal: write tawdry poetry and build treehouses.We first rebuild a *playing* culture - or, more humbly, just play (yes, you) - and let the building take care of itself.&lt;/p&gt;
+&lt;p&gt;In fact, we have some evidence that a habit of play was a subtle yet scarce and irreplaceable ingredient in our nation’s greatest technological innovations.&lt;/p&gt;
+&lt;p&gt;Writes Stuart Brown in &lt;a href=&#34;https://www.amazon.com/Play-Shapes-Brain-Imagination-Invigorates/dp/1583333789&#34;&gt;&lt;em&gt;Stuart Brown’s Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;“You might say that JPL invented the Space Age…But in the late nineties, the lab’s management was saying, “JPL, we have a problem.” As the lab neared the new century, the group of engineers and scientists who had come on board in the 1960s, those who put men on the moon and built robotic probes to explore the solar system, were retiring in large numbers. And JPL was having a hard time replacing them. Even though JPL hired the top graduates from top engineering schools like MIT, Stanford, and even Cal Tech itself, the new hires were often missing something. They were not very good at certain types of problem solving that are critical to the job.”&lt;/p&gt;
+&lt;p&gt;JPL ultimately found that “those who had worked and played with their hands as they were growing up were able to “see solutions” that those who hadn’t worked with their hands could not.&lt;/p&gt;
+&lt;p&gt;“They found that in their youth, their older, problem-solving employees had taken apart clocks to see how they worked, or made soapbox derby racers, or built hi-fi stereos, or fixed appliances. The young engineering school graduates who had also done these things, who had played with their hands, were adept at the kinds of problem solving that management sought. Those who hadn’t, generally were not.”&lt;/p&gt;
+&lt;p&gt;Perhaps we will not solve and plan our way forward, and must allow ourselves to tinker, hack, and play instead.&lt;/p&gt;
+&lt;p&gt;We seem to agree that “&lt;a href=&#34;http://www.paulgraham.com/love.html&#34;&gt;to do something well you have to like it.&lt;/a&gt;” But if we demand excellence and usefulness of fledgling efforts - be they to build technology, institutions, or to simply write poetry - we won’t last, won’t end up doing well, and won’t end up being useful to others.&lt;/p&gt;
+&lt;p&gt;If you get home from work and sit down to write a poem or rebuild a computer with the intention of “building culture” or “building a building culture,” you won’t enjoy it enough to stay in the game for long.&lt;/p&gt;
+&lt;p&gt;There is a common understanding that necessity is the mother of invention. And it is hard to argue against the importance of existential threats to 20th century technological innovation. But however you want to characterize our failure to handle COVID-19, it does not seriously compare to the threat posed by Hitler or the USSR. I would hope we need not rely on existential threats to drive innovation, anyway.&lt;/p&gt;
+&lt;p&gt;As it happens, I see some anecdotal evidence to be confident that play is making a comeback.&lt;/p&gt;
+&lt;p&gt;Funny, expansive, curious and playful people - the Joe Rogan’s, &lt;a href=&#34;https://www.artofmanliness.com/podcast/&#34;&gt;Brett McKay’s&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg&#34;&gt;Mark Rober’s&lt;/a&gt; of the world - have gained massive followings. We hunger for their attitudes and lifestyles.&lt;/p&gt;
+&lt;p&gt;I’m excited about what &lt;a href=&#34;https://letgrow.org&#34;&gt;Let Grow&lt;/a&gt;, &lt;a href=&#34;https://www.exuberantanimal.com&#34;&gt;Exuberant Animal&lt;/a&gt;, &lt;a href=&#34;https://www.playcore.com&#34;&gt;PlayCore&lt;/a&gt;, and companies like &lt;a href=&#34;https://www.kiwico.com&#34;&gt;KiwiCo&lt;/a&gt; are doing.&lt;/p&gt;
+&lt;p&gt;Perhaps even the lawyers - the makers of our bureaucratic malaise! - are joining in. In Stuart Brown’s book, he describes being approached after a book talk by woman who was a partner at a major New York law firm and a mother of two.&lt;/p&gt;
+&lt;p&gt;“She had done all the right things and gone to all the right schools, but now she sheepishly admitted that she was not all that happy, as if this were a shameful secret. And now she was getting her kids into all the right schools and the right activities, but she worried she was taking them down the path that she had tread.”&lt;/p&gt;
+&lt;p&gt;“In the end, I get the sense that adults feel that they themselves didn’t get it right, that they once had something special and let it go. They don’t know where it went or how to get it back, but they would like to give their children more options than they had.”&lt;/p&gt;
+&lt;p&gt;In instances like these, I think we find the seeds of our renewal.&lt;/p&gt;
+- https://sunilvrao.com/post/its-time-to-play/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Trade globally, love locally.</title>
+        <link>https://sunilvrao.com/post/trade-globally-love-locally/</link>
+        <pubDate>Thu, 27 Aug 2020 22:28:46 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/trade-globally-love-locally/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/trade-globally-love-locally/ -&lt;h5 id=&#34;a-short-summary-of-russ-roberts-_how-adam-smith-can-change-your-life_&#34;&gt;A short summary of Russ Roberts&#39; &lt;em&gt;How Adam Smith Can Change Your Life&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Self-interest and incentives are how we take care of people we don’t know and organize large-scale systems. This is the subject matter of the Wealth of Nations. But we must also practice virtue, conscience, warmth, dignity, nobility amongst our inner circles in order to live a good life. This is the subject of the Theory of Moral Sentiments. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Wealth of Nations&lt;/em&gt; and &lt;em&gt;Theory of Moral Sentiments&lt;/em&gt;, while seemingly opposing each other, simply treat different spheres of human interactions. Dysfunction emerges when we try to extend familial intimacy beyond our close circles, as much as we may crave familial warmth and trust in/from our commercial, work, political relationships and establishments.&lt;/p&gt;
+- https://sunilvrao.com/post/trade-globally-love-locally/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>The link between antitrust and inequality</title>
+        <link>https://sunilvrao.com/post/the-link-between-antitrust-and-inequality-jonathan-teppers-the-myth-of-capitalism/</link>
+        <pubDate>Tue, 18 Aug 2020 16:11:30 +0000</pubDate>
+        
+        <guid>https://sunilvrao.com/post/the-link-between-antitrust-and-inequality-jonathan-teppers-the-myth-of-capitalism/</guid>
+        <description>A Hugo Site https://sunilvrao.com/post/the-link-between-antitrust-and-inequality-jonathan-teppers-the-myth-of-capitalism/ -&lt;h3 id=&#34;_the-myth-of-capitalism_-by-jonathan-tepper&#34;&gt;&lt;em&gt;The Myth of Capitalism&lt;/em&gt;, by Jonathan Tepper&lt;/h3&gt;
+&lt;h4 id=&#34;in-summary&#34;&gt;In summary:&lt;/h4&gt;
+&lt;p&gt;Current, unacceptable levels of inequality stem from the deterioration of antitrust enforcement and the subsequent “toll road-ization” of the American economy. Mergers permitted without scrutiny, oligopoly proliferates; workers, customers, suppliers get squeezed. This deterioration was driven by revolving doors, cronyism, and Chicago economic philosophy. This is all exacerbated by concentrated ownership of these toll roads by the wealthy.&lt;/p&gt;
+&lt;h4 id=&#34;questions--review&#34;&gt;Questions &amp;amp; Review&lt;/h4&gt;
+&lt;p&gt;Tepper&amp;rsquo;s story is enticingly simple. Basically, we just need to restore antitrust enforcement. It is hard to disagree with Tepper&amp;rsquo;s narrative of recent economic developments, but I suspect there is more to the story.&lt;/p&gt;
+&lt;p&gt;Telecommunications seems a perfect example of oligopoly. Why are they spending billions on 5G? And why do they bother advertising so much? (Granted, I have some ideas, not sure if I can share them due to having recently worked at Verizon.)&lt;/p&gt;
+&lt;p&gt;Tepper suggests that anti-trust, anti-monopoly enforcement basically crumbled under the influence of the Chicago school. &lt;a href=&#34;https://twitter.com/econtalker/status/1258833976535457802&#34;&gt;But Russ Roberts argues&lt;/a&gt; that the Chicago school was never as influential as some on the left like to think. What gives?&lt;/p&gt;
+&lt;p&gt;What if we just haven’t reached the end of the story yet? Yes you have these huge FAANG companies…but don’t they also allow people to &lt;a href=&#34;https://www.amazon.com/gp/product/1497533406/ref=as_li_tf_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1497533406&amp;amp;linkCode=as2&amp;amp;tag=charleshughsm-20&#34;&gt;do more with less&lt;/a&gt;? So entrepreneurship is down…but the cost of starting a software business is falling dramatically. If you believe the &lt;a href=&#34;https://earnestcapital.com/investment-memo-fund-2/&#34;&gt;Earnest Capital thesis&lt;/a&gt;, you’d be much more encouraged.&lt;/p&gt;
+- https://sunilvrao.com/post/the-link-between-antitrust-and-inequality-jonathan-teppers-the-myth-of-capitalism/ - This is a customized copyright.</description>
+        </item>
+    
     
   </channel>
-</rss>
+</rss> 
