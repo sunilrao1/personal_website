@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>building in public on Manis</title>
+    <title>building in public on Sunil Rao</title>
     <link>https://sunilvrao.com/tags/building-in-public/</link>
-    <description>Recent content in building in public on Manis</description>
+    <description>Recent content in building in public on Sunil Rao</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2019 Yurizal Susanto</copyright>
     <lastBuildDate>Thu, 12 Nov 2020 03:30:33 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/tags/building-in-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A simple redo log for the GMAT</title>
