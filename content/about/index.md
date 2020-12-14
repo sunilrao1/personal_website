@@ -5,7 +5,7 @@ draft: false
 ---
 <img src="/images/self/Unchanged_headshot.jpg" />
 <!-- <img style="float: left" src="/images/self/Oval_headshot.jpg" /> -->
-![sunil](/images/self/Oval_headshot.jpg)
+![sunil](/images/self/Oval_headshot.png)
 
 
 Starting small, at last. Building tools for learning better. Proprietor of Rao Athletic Club. Reading and writing widely.
