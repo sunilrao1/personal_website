@@ -10,4 +10,4 @@ draft: false
 
 Independent tinkerer. Proprietor of Rao Athletic Club. Reading and writing widely.
 
-Previously, I’ve worked in strategic planning at Verizon, done sales and digital marketing at a fintech startup, tried (and failed spectacularly at) finding endorsement deals for Brazilian soccer players, and worked in investment banking at Morgan Stanley.
+Previously, I’ve worked in strategic planning at Verizon, done sales and digital marketing at a fintech startup, tried to find endorsement deals for Brazilian soccer players, and worked in investment banking at Morgan Stanley.

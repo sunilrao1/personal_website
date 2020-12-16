@@ -37,7 +37,7 @@ Even some of our most personal choices were “co-created” out of some experie
 
 While exercising. While working. While cooking. While driving (this one’s better, though). While…doing something else.
 
-I think it’s cool that music can be the soundtrack to our lives - to other activities. But isn’t it also sometime worth giving our undivided attention? If music is always a secondary activity, of course I won’t appreciate it much.
+I think it’s cool that music can be the soundtrack to our lives - to other activities. But ought to be a centerpiece at times, too. If music is always a secondary activity, of course I won’t appreciate it much. 
 
 —
 
