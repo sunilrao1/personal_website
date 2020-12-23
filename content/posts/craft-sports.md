@@ -17,7 +17,7 @@ I think there’s a hunger for local/community sports institutions. The same way
 
 However, I think there are some cool things happening under the umbrella of “craft sports,” if you will. [Away Days](https://awaydaysfootball.com/collections/products) - a soccer-focused apparel brand - showcases the jerseys of smaller US teams that I’d never have heard of otherwise.
 
-I also detect a growing interest in more systematic, ritualized physical culture that we can participate in without being athletes worth watching on TV. [Search volume for Brazilian jiu-jitsu](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=%2Fm%2F01ddb4) has steadily increased in the last several years. Starting Strength looks about to open a slew of gyms across the country in the next few years. These are not anonymous globo-gyms; they’re relatively small and intimate.
+I also detect a growing interest in more systematic, ritualized physical culture that we can participate in without being athletes worth watching on TV. [Search volume for Brazilian jiu-jitsu](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=%2Fm%2F01ddb4) has steadily increased in the last several years. Starting Strength [looks ready to open a slew of gyms](https://startingstrength.com/article/starting-strength-gyms-performance-update) across the country in the next few years. These are not anonymous globo-gyms; they’re relatively small and intimate.
 
 If I were granted one wish to super charge bottom-up sports, it’d be the introduction of promotion/relegation. This makes starting a team a more attractive proposition, because you stand a chance of making it to the big leagues (national visibility/TV $$$). (Without this, the ceiling on your investment is lower.)
 
