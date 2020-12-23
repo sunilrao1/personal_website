@@ -1,7 +1,7 @@
 ---
 title: 'Craft Sports'
 date: 2020-12-22
-draft: true
+draft: false
 tags: ['sports', 'soccer']
 ---
 
@@ -23,4 +23,4 @@ If I were granted one wish to super charge bottom-up sports, it’d be the intro
 
 And then, up-and-coming talent start to have more options other than working for free for the NCAA/university system. Plus, they’d have more opportunities to represent their hometowns, which fuels mutual affection and pride.
 
-I thank [Alexey Guzey](https://twitter.com/alexeyguzey) for bringing Helen’s tweet to my attention via his fabulous [Best of Twitter newsletter](https://guzey.com/best-of-twitter/).
+*I thank [Alexey Guzey](https://twitter.com/alexeyguzey) for bringing Helen’s tweet to my attention via his fabulous [Best of Twitter newsletter](https://guzey.com/best-of-twitter/).*
