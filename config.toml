@@ -44,7 +44,7 @@ pygmentsUseClasses = true
 	# Site meta description
 	description = "My serendipidy machine."
 	# Site's Tagline (Subtitle or Keyword)
-	# tagline = "Always something to find out"
+	tagline = "One thing leads to another"
 	# If true give attribution to this theme
 	themeAttrib = false
 	# URL to license file, can be outside of your domain

@@ -8,6 +8,6 @@ draft: false
 ![sunil](/images/self/Oval_headshot.png)
 
 
-Independent tinkerer. Proprietor of Rao Athletic Club. Reading and writing widely.
+Independent tinkerer. Fellow at [On Deck No-Code](https://www.beondeck.com/no-code). Proprietor of Rao Athletic Club. Reading and writing widely.
 
 Previously, I’ve worked in strategic planning at Verizon, done sales and digital marketing at a fintech startup, tried to find endorsement deals for Brazilian soccer players, and worked in investment banking at Morgan Stanley.
