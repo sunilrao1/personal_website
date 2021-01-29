@@ -1,5 +1,5 @@
 ---
-title: 'A simple redo log for the GMAT'
+title: 'Practicing active recall'
 date: Thu, 12 Nov 2020 03:30:33 +0000
 draft: false
 tags: ['building in public']

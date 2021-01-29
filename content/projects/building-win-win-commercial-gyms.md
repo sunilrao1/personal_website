@@ -46,7 +46,3 @@ If you’re a gym, would you trade your “no-show revenues” to see how much m
 So how big is this group of silent gripers, how much more are they willing to pay? What will it take for them to develop some class consciousness? :) 
 
 I think there is a game-theory dimension here. If you’re a gym, and as long as your competitors rely on no-shows the same as you, there is no reason to change. If one gym in an area were to adopt the on-demand/a la carte model, the silent gripers and the no-shows would vote with their feet, and the rest of the market would have no choice but to follow.
-
-![](https://lh6.googleusercontent.com/YmZfaNmuPV-SQU9yPt9RmjHNbu_b45aKXDJcZBAXhw-Wqx0dpQgtBNsqycKplrD_2fPvEThcBF8jvw3fHikizibPFlaxbxrfVbbZ98GtQmWk8223ctZgL3526Z3NjL4rznxCYX91)
-
-[Click here to see the prototype](https://www.figma.com/proto/ZCzsMBT3Qu6iWrPPzM0NVE/Gym-Equipment-Booking?node-id=20199%3A0&scaling=scale-down)
