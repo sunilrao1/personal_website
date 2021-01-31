@@ -4,6 +4,18 @@ date: 2020-05-17
 draft: false
 ---
 
+## [Gleb Posobin](https://threader.app/thread/1091156574993870849)
+
+"Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise. So it's easier to notice your own ideas in a dialogue: your friend has different concept structures and notices them."
+
+"Corollary: don't be afraid to say obvious things."
+
+"Corollary 2: it is ok if it seems to you that you do not have nontrivial ideas of your own. It is just hard to notice them."
+
+## [Patrick McKenzie](https://twitter.com/patio11/status/936615043126370306)
+
+"Meta thought: you radically underestimate both a) how much you know that other people do not and b) the instrumental benefits to you of publishing it."
+
 ## [David Barnett](https://www.theguardian.com/books/booksblog/2017/apr/05/do-two-unpublished-books-make-you-a-failed-author-no-youre-a-quitter)
 
 "Dear Anonymous, you're not a failure. You're a quitter."
@@ -55,15 +67,3 @@ She replied: "As you know, there isn't really any solution to self-doubt. In the
 "...write about what you're interested in, meet people you'd find interesting, discover your next topic, continue. The end result is that you subject your intellectual development to a sort of intelligent design instead of random evolution: you'll tend to go where the next insights are."
 
 "...This means that anyone who writes about obsessions is helping to shelve, organize, and expand humanity's library of useful knowledge. If you can do it, and do it well, you're making the world a better place."
-
-## [Gleb Posobin](https://threader.app/thread/1091156574993870849)
-
-"Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise. So it's easier to notice your own ideas in a dialogue: your friend has different concept structures and notices them."
-
-"Corollary: don't be afraid to say obvious things."
-
-"Corollary 2: it is ok if it seems to you that you do not have nontrivial ideas of your own. It is just hard to notice them."
-
-## [Patrick McKenzie](https://twitter.com/patio11/status/936615043126370306)
-
-"Meta thought: you radically underestimate both a) how much you know that other people do not and b) the instrumental benefits to you of publishing it."
