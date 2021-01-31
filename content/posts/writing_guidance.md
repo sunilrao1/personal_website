@@ -16,10 +16,6 @@ draft: false
 
 "Meta thought: you radically underestimate both a) how much you know that other people do not and b) the instrumental benefits to you of publishing it."
 
-## [David Barnett](https://www.theguardian.com/books/booksblog/2017/apr/05/do-two-unpublished-books-make-you-a-failed-author-no-youre-a-quitter)
-
-"Dear Anonymous, you're not a failure. You're a quitter."
-
 ## [Zadie Smith](https://www.theguardian.com/books/2018/jan/21/zadie-smith-you-ask-the-questions-self-doubt)
 
 She was asked, "Do you have any secret techniques for overcoming self-doubt?"
