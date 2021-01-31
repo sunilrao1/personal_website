@@ -1,5 +1,5 @@
 ---
-title: "My favorite writing guidance"
+title: "Writing guidance"
 date: 2020-05-17
 draft: false
 ---
