@@ -16,6 +16,14 @@ draft: false
 
 "Meta thought: you radically underestimate both a) how much you know that other people do not and b) the instrumental benefits to you of publishing it."
 
+## [Byrne Hobart](https://marker.medium.com/the-marker-guide-to-content-marketing-for-non-hucksters-e0572916e217)
+
+"Write for yourself, and you'll write for the close friends you didn't know you had."
+
+"...write about what you're interested in, meet people you'd find interesting, discover your next topic, continue. The end result is that you subject your intellectual development to a sort of intelligent design instead of random evolution: you'll tend to go where the next insights are."
+
+"...This means that anyone who writes about obsessions is helping to shelve, organize, and expand humanity's library of useful knowledge. If you can do it, and do it well, you're making the world a better place."
+
 ## [Zadie Smith](https://www.theguardian.com/books/2018/jan/21/zadie-smith-you-ask-the-questions-self-doubt)
 
 She was asked, "Do you have any secret techniques for overcoming self-doubt?"
@@ -55,11 +63,3 @@ She replied: "As you know, there isn't really any solution to self-doubt. In the
 "Content builds on itself. It multiplies and compounds."
 
 "Good news: You already have the tools to write online[.](https://www.writeofpassage.school/) You know how to read and write. And you have access to the Internet, which means you can create and distribute your work to the whole world at a low cost."
-
-## [Byrne Hobart](https://marker.medium.com/the-marker-guide-to-content-marketing-for-non-hucksters-e0572916e217)
-
-"Write for yourself, and you'll write for the close friends you didn't know you had."
-
-"...write about what you're interested in, meet people you'd find interesting, discover your next topic, continue. The end result is that you subject your intellectual development to a sort of intelligent design instead of random evolution: you'll tend to go where the next insights are."
-
-"...This means that anyone who writes about obsessions is helping to shelve, organize, and expand humanity's library of useful knowledge. If you can do it, and do it well, you're making the world a better place."
