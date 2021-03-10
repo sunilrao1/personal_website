@@ -15,5 +15,3 @@ This one’s always been a bee in my bonnet. It inspired a rather neurotic energ
 Once you’ve been forced to recognize (you tend to have to get forced) your own propensity to screw or be a complete pighead, you may finally gain the ability to learn from others’ mistakes. Unless you know from your own experience that it could have been you screwing up in this other guy’s place, you will quietly look down on his folly more than you’ll actually learn from it. Any specific tactical takeaway from someone else’s mistake pales in comparison to the qualities you find in yourself when you learn from your own mistakes.
 
 What are the mistakes that shaped you?
-
-testing123
