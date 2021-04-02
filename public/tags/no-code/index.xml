@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>no-code on Sunil Rao</title>
+    <link>https://sunilvrao.com/tags/no-code/</link>
+    <description>Recent content in no-code on Sunil Rao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/tags/no-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting the most out of ODNC</title>
+      <link>https://sunilvrao.com/posts/odnc-reflection/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunilvrao.com/posts/odnc-reflection/</guid>
+      <description>If you are a new no-code maker - which was me at the start of ODNC1 - this is for you! As Anthony Constantino reminded me, it can be very helpful to learn from those who are just a step or two ahead of you in the process, moreso than more than advanced practitioners. So hopefully my reflections will be useful to you.
+On the creative process There’s a lot of great guidance and playbooks on creating software products out there.</description>
+    </item>
+    
+  </channel>
+</rss>
