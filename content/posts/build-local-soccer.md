@@ -21,13 +21,13 @@ But I get the sense that MLS is trying to manufacture its own grassroots, scarf-
 
 Compare the following two scenes:
 
-![](https://sunilvraocom.files.wordpress.com/2020/08/img_4514.jpg?w=1024)
+![Red_Bulls](/images/soccer/Red_Bulls.jpeg)
 
 _2018 MLS Cup Playoffs, 2nd leg of the Eastern Conference Finals, Red Bull Arena. Red Bulls needed to overcome a 3-0 deficit to reach the MLS Cup Finals. They filled about 2/3 of the stadium before kick off._
 
 On the other hand:
 
-![](https://sunilvraocom.files.wordpress.com/2020/08/img_4058.jpg?w=1024)
+![Union_Berlin](/images/soccer/Union_Berlin.jpeg)
 
 _1\. FC Union Berlin’s first game of the 2018-2019 season in the German second division._ [_The fans helped_ **_build_** _this stadium._](https://www.youtube.com/watch?v=XXI6oWjlV8M&t=329s)
 
