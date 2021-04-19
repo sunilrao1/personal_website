@@ -1,11 +1,11 @@
 ---
-title: 'Hopelessly half-baked study guide #1: takeaways from “Political Economy 101”'
+title: 'WIP study guide #1: takeaways from “Political Economy 101”'
 date: Thu, 10 Sep 2020 14:43:34 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['political economy']
 ---
 
-A few months ago, I set out to give myself an introduction to “something like” political economy. It was a conveniently vague way to assemble a reading plan around some things I’d been wanting to read for a while at the intersection of philosophy, economics, history and technology.
+A few months ago, I set out to give myself an introduction to [“something like” political economy](https://twitter.com/EconTalker/status/1258420028426387458). It was a conveniently vague way to assemble a reading plan around some things I’d been wanting to read for a while at the intersection of philosophy, economics, history and technology.
 
 Though a bit scattered, doing this surfaced a few distinct topics and questions for me to pursue in future:
 

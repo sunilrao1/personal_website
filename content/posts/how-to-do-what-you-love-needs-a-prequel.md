@@ -2,7 +2,7 @@
 title: '“How to Do What You Love” needs a prequel'
 date: Thu, 22 Oct 2020 01:29:30 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['work']
 ---
 
 “To do something well you have to like it,” [Paul Graham famously wrote](http://www.paulgraham.com/love.html). This advice can come like a friendly slap in the face. Of course! Striving to excel in a domain that does not interest us is obviously silly. 

@@ -2,7 +2,7 @@
 title: 'Build Local Soccer'
 date: Thu, 06 Aug 2020 20:09:10 +0000
 draft: false
-tags: ['soccer']
+tags: ['soccer','political economy']
 ---
 
 We don’t just [tune into the Premier League](https://morningconsult.com/2019/08/28/global-is-cool-the-growing-appeal-of-premier-league-soccer-in-america/) for the highest-quality soccer. Or for the fantastic coverage team at NBC. Or even for Kyle Martino’s earring.

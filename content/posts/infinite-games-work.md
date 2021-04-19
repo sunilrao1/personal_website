@@ -2,7 +2,7 @@
 title: 'On infinite games, meaning at work & noblesse oblige'
 date: 2021-03-29
 draft: false
-tags: ['meaning']
+tags: ['work','meaning']
 ---
 
 I loved the way Max Nussbaum [called attention](https://www.mysupersecretdiary.com/p/mans-search-for-meaning-at-work) to the dysfunction of how we often seek to find meaning at work. It prompted a lengthier reflection than anticipated, and thought it was worth reproducing here.

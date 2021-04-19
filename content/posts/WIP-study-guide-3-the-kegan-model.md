@@ -1,8 +1,8 @@
 ---
-title: 'Hopelessly half-baked study guide #3: The Kegan Model'
+title: 'WIP study guide #3: The Kegan Model'
 date: Wed, 18 Nov 2020 04:04:51 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['meaning']
 ---
 
 Several friends and mentors of mine have suffered the misfortune of lending me their ears during my Kegan phase. For the uninitiated, Robert Kegan has proposed a fascinating and encouraging model of psychological development that continues well into adulthood - which, one learns, was not previously generally accepted. This is sort of a cheat-post - I repurpose what I wrote from an email exchange my attempt (only what I wrote) to put Kegan’s work in my words and reflect on it’s applicability, lightly edited for clarity. 

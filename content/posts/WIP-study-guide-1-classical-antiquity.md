@@ -1,5 +1,5 @@
 ---
-title: 'Hopelessly half-baked study guide #2: Classical Antiquity...'
+title: 'WIP study guide #2: Classical Antiquity...'
 date: Tue, 06 Oct 2020 22:00:27 +0000
 draft: false
 tags: ['Uncategorized']
