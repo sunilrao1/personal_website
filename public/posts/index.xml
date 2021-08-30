@@ -5,7 +5,18 @@
     <link>https://sunilvrao.com/posts/</link>
     <description>Recent content in Posts on Sunil Rao</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No-code 101</title>
+      <link>https://sunilvrao.com/posts/no-code101/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunilvrao.com/posts/no-code101/</guid>
+      <description>I think there are a four sub-areas under the umbrella of no-code:
+1. App-builders for wantrapreneurs. While there are some questions around how scalable these platforms are, for founders trying to find PMF, no-code is right now a much more resourceful/efficient approach than teaching yourself to code or hiring a developer. Even coders will use these as a faster way to test an idea.
+A couple of fast-growing startups here are Bubble (a full-stack no-code dev platform that I used for my EdTech app) and Webflow (loved by designers).</description>
+    </item>
+    
     <item>
       <title>Getting the most out of ODNC</title>
       <link>https://sunilvrao.com/posts/odnc-reflection/</link>
