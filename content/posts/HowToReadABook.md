@@ -1,5 +1,5 @@
 ---
-title: 'You don't know *How to Read a Book*'
+title: 'Do you know How to Read a Book?'
 date: 2022-07-05
 draft: false
 tags: ['reading']
@@ -27,7 +27,7 @@ It joined a league with only one other member - Barbara Minto’s *The Pyramid P
 - X-ray a book, don’t just let yourself get pulled along. Scan for premises, reasons, conclusions. Again, let the author help you, but don’t rely on them. Depending on how important it is to you, create an outline of the book. How do the parts support the whole? This way, you’ll actually be convinced, and not just be building a house of cards.
 - Understand before you assess and agree/disagree. (I have been guilty of this.)
 
-## The rules - as outlined by me
+## Annotated Rules from *How to Read a Book*
 
 The bulk of the book explains the importance and application of the four levels of reading necessary to understand a book or a topic. Each subsequent level builds on the previous levels.
 
@@ -44,28 +44,28 @@ These levels are:
     2. Superficial reading helps you to grasp the big picture, and you can fill it in later with closer reading
         1. Read through the whole thing w/o ever stopping to chew on things you don’t understand
 3. Analytical reading means working towards a clear understanding of what the book is about, what it actually says, whether it’s true, and why it matters.  
-        1. Stage 1: Structural. What is the book about as a whole?
-            1. Classify the book.
-            2. State what the whole book is about with the utmost brevity (i.e. the main point).
-            3. Enumerate its major parts in their order and relation, and outline these parts as you’ve outlined the whole.
-            4. Define the problem or problems the author has tried to solve.
-        2. Stage 2: Interpretive. What is being said in detail, and how?
-            1. Identify and interpret key terms
-                1. Term: the basic element of communicable knowledge. Which words are laden with significance, most important for communicating the point? Which words introduce confusion or friction? They are likely important.
-            2. Grasp the author’s leading propositions (main premises or conclusions) by dealing with the most important sentences
-                1. Which sentences do you have the most difficulty with? When you get perplexed or experience wonder, follow your nose.
-                2. State them in your own words.
-            3. Know the author’s arguments (premises, reasons, conclusions), by finding them in, or constructing them out of, sequences of sentences
-                1. Note what kind of reasoning is being employed (inductive: facts -> generalization (e.g. by experiment); deductive: general statements -> further generalization (e.g. by reasoning))
-                2. Note what he says must be assumed, what can be proved, what is self-evident
-            4. Determine which of his problems the author has solved, and which he has not; and of the latter, decide with the author knew he had failed to solve
-        3. Stage 3: Critical. Is it true, how so, how not? What of it?
-            1. To disagree properly:
-                1. Understand before you disagree. Ensure you have an adequate source of disagreement, likely one of:
-                    1. Uninformed
-                    2. Misinformed
-                    3. Illogical
-                    4. Analysis/account is incomplete
+    1. Stage 1: Structural. What is the book about as a whole?
+        1. Classify the book.
+        2. State what the whole book is about with the utmost brevity (i.e. the main point).
+        3. Enumerate its major parts in their order and relation, and outline these parts as you’ve outlined the whole.
+        4. Define the problem or problems the author has tried to solve.
+    2. Stage 2: Interpretive. What is being said in detail, and how?
+        1. Identify and interpret key terms
+            1. Term: the basic element of communicable knowledge. Which words are laden with significance, most important for communicating the point? Which words introduce confusion or friction? They are likely important.
+        2. Grasp the author’s leading propositions (main premises or conclusions) by dealing with the most important sentences
+            1. Which sentences do you have the most difficulty with? When you get perplexed or experience wonder, follow your nose.
+            2. State them in your own words.
+        3. Know the author’s arguments (premises, reasons, conclusions), by finding them in, or constructing them out of, sequences of sentences
+            1. Note what kind of reasoning is being employed (inductive: facts -> generalization (e.g. by experiment); deductive: general statements -> further generalization (e.g. by reasoning))
+            2. Note what he says must be assumed, what can be proved, what is self-evident
+        4. Determine which of his problems the author has solved, and which he has not; and of the latter, decide with the author knew he had failed to solve
+    3. Stage 3: Critical. Is it true, how so, how not? What of it?
+        1. To disagree properly:
+            1. Understand before you disagree. Ensure you have an adequate source of disagreement, likely one of:
+                1. Uninformed
+                2. Misinformed
+                3. Illogical
+                4. Analysis/account is incomplete
 4. Syntopical (i.e. comparative) reading, entails identifying how different books on a subject “talk to each other” so as to refine and answer your questions on that subject.
     1. Inspect readings in your tentative bibliography to see what’s actually germane to your subject and to refine your conception of the subject or question
     2. Inspect to find most relevant passages (you’re not reading the book, you’re using it)
