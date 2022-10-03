@@ -1,5 +1,5 @@
 ---
-title: 'You probably shouldn’t join a startup'
+title: 'Why are you joining a startup?'
 date: 2022-10-03
 draft: false
 tags: ['work','startups']
