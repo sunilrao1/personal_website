@@ -1,5 +1,5 @@
 ---
-title: 'Some scattered observations: You probably shouldn’t join a startup'
+title: 'You probably shouldn’t join a startup'
 date: 2022-10-03
 draft: false
 tags: ['work','startups']
