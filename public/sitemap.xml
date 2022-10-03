@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sunilvrao.com/posts/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunilvrao.com/posts/dont-join-startup/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunilvrao.com/tags/startups/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunilvrao.com/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunilvrao.com/tags/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunilvrao.com/tags/work/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sunilvrao.com/posts/howtoreadabook/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sunilvrao.com/posts/hamlet/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunilvrao.com/tags/literature/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sunilvrao.com/posts/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sunilvrao.com/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sunilvrao.com/tags/</loc>
+    <loc>https://sunilvrao.com/tags/reading/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunilvrao.com/tags/nyc/</loc>
@@ -39,9 +54,6 @@
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunilvrao.com/posts/infinite-games-work/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sunilvrao.com/tags/work/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sunilvrao.com/tags/education/</loc>
