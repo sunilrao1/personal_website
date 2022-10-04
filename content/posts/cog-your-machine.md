@@ -21,15 +21,15 @@ What prompted these reflections was a recent conversation with a friend of mine.
 
 In hindsight, I think we had different definitions of the word “job.” What I was really reacting against, and am highly allergic to, is any money-making context in which you do not feel aligned with the role you’re playing. I’ve found myself in contexts where I wanted to be a visionary or apprentice, and couldn’t, and didn’t feel the need to be a mercenary.
 
-This leads to the general “condition” of feeling *employed*. Work *feels like a job*. We know this is just another way of saying *it feels burdensome, I feel used for a purpose that’s not my own*. In this situation, you’re making a bad trade, and what you’re doing. You’re resisting what you’re doing, and suspect, still unconsciously, that there’s a better way for you to be using your time and energy. You’re in no-man’s land.
+This leads to the general “condition” of feeling *employed*. Work *feels like a job*. We know this is just another way of saying *it feels burdensome, I feel used for a purpose that’s not my own*. You’re resisting what you’re doing and suspect, still unconsciously, that there’s a better way for you to be using your time and energy. You’re in no-man’s land.
 
-A coherent mercenary could be in the very same W-2 contract but not feel this resistance, because they’ve set up the job to be a cog in their machine of life overall, the same way way they may be a cog in someone else’s machine within the strict confines of work. The same arrangement on paper to two people who’ve figured out a desirable posture that the environment can accommodate. They might technically be employed by someone else, but spiritually remain self-employed.
+A coherent mercenary could be in the same W-2 contract but not feel this resistance. They’ve set up the job as a cog in their machine of life overall, the same way way *they* may be a cog in someone else’s machine within the strict confines of the organization in which they work. They've figured out a role to play that 1) they want and 2) suits the environment. They might technically be employed by someone else, but spiritually remain self-employed.
 
-It’s only a job if you’re not all for *the whole package*.
+It’s only a "job" if you’re not all for *the whole package*.
 
 So, saying that you “just have a job,” is *not* to cast aspersions on being a big-corp middle manager, or a barista, or any other occupation. But it is to cast aspersions on plugging into someone else’s system of values (and value creation) without having first plugged that same employment contract into your own system of values and value creation. Do you want to drive, or be in the back seat?
 
-I suspect that there are many people working in large companies that want to be visionaries at work, but find themselves in employment situations that accommodate primarily mercenaries. If that’s been your experience, one litmus test for whether that shiny new job opportunity is a real part of your vision, or “just another job” is: what happens if/when you are rejected? Do you continue pursuing and exploring that same territory? If not, then you weren't a visionary in that context. Becoming a proud mercenary is another option, too!
+I suspect that there are many people working in large companies that expected to be visionaries at work, but find this impossible. If that’s been your experience, one litmus test for whether that shiny new job opportunity is a real part of your vision, or “just another job” is: what happens if/when you are rejected? Do you continue pursuing and exploring that same territory? If not, then you weren't a visionary in that context. Becoming a proud mercenary is another option, too!
 
 You want to have the job, and not let the job have you.
 
