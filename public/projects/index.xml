@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sunilvrao.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>&#43;560k housing units for NYC by 2030</title>
+      <link>https://sunilvrao.com/projects/nyc-housing230-tracker/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunilvrao.com/projects/nyc-housing230-tracker/</guid>
+      <description>A recent study suggests that NYC needs to build 560k additional units overall by 2030.
+Since the NYC&amp;rsquo;s government publicly tracks only the number of affordable housing units getting built, I&amp;rsquo;ve started a tracker that compiles all active and potential legislative initiatives that could yield more housing in order to establish a concrete sense of our current trajectory, and make clear if and how that is insufficient.
+Note that the 560 units target should probably be considered a bare minimum.</description>
+    </item>
+    
+    <item>
       <title>Economic policy, growth, and human flourishing</title>
       <link>https://sunilvrao.com/projects/growth-policy-flourishing/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
