@@ -21,19 +21,19 @@ Camp Progress includes: Tyler Cowen, Patrick Collison, Peter Thiel, Benjamin Fri
 
 The second, which I’ll American Compass, considers a broader definition of progress. Interests include raising the number of meaningful individual earners and producers, and leveraging economic policy in support of community and social fabric, at the expense of solving directly for GDP. Elites cling onto their places on an island that’s shrinking, and have given up on dignity, honor and courage as core values.
 
-Camp Compass includes: Oren Cass, Andrew Yang, Henry George, Matthew Stewart, Tanner Greer, Angelo Codevilla, Chris Arnade, Venkatesh Rao
+Camp Compass includes: Oren Cass, Andrew Yang, Henry George, Matthew Stewart, Tanner Greer, Angelo Codevilla, Chris Arnade, [Venkatesh Rao](https://www.ribbonfarm.com/2013/07/31/the-quality-of-life/).
 
 It seems to me that the Progress Studies camp pays little mind to the flourishing of the median individual. But living standards are a component of flourishing, not the whole. What impact do rising living standards - and a policy regime solving for them - have to do with capacity of the median individual to be meaningful creators and adventurers in and of their lives? I’m not seeing it.
 
-A sub-bullet of the above that occurred to me is that the study of economics does not (and cannot) solve for adventure in life as a value for the every day person, the way you might see amongst old-school adventure types like you see in fiction, or even my old math teacher! Adventure is independent of living standards.
+A sub-bullet of the above that occurred to me is that the study of economics does not (and cannot) solve for adventure or confidence in life as values for the every day person, the way you might see amongst old-school adventure types like you see [in fiction](https://www.amazon.com/exec/obidos/ASIN/0940322919/ref=nosim/themillpw-20), or [my old math teacher](http://mahargpress.com/wounded/about/)! Qualities like adventure and confidence operate independently of living standards. A culture or society that solves for living standards squashes capacities for adventure and confidence. I think it also squashes the foundations for [community and relationship](https://www.econtalk.org/chris-arnade-on-dignity/) - that's another story.
 
 Progress studies: We have a living standards problem. Look at this chart! Housing, childcare, education! That’s what’s getting in the way of more flourishing.
 
-American Compass: We're past the point where growing the top line and increasing living standards will make a difference for those that are struggling. The issue is that we've suffocated the ability of the median person to earn for themselves, their families and communities. 
+American Compass: We're past the point where growing the top line and increasing living standards will make a difference for those that are struggling. The issue is that we've suffocated the ability of the median person to earn for themselves, their families and communities. And lost sight of what those living standards *are actually for*.
 
 ## Future Questions
 
-Is what Oren Cass calls “economic piety” (policies oriented towards maximizing GDP + redistribution, versus facilitating everyone to produce and earn) actually the case? If so, has it really backfired? By what standard do we measure this? Could this work? Or do I agree that GDP growth and human flourishing gotten detached from each other, and we could do better solving for the latter with different policies?
+Is what Oren Cass calls “economic piety” (policies oriented towards maximizing GDP + redistribution, versus facilitating the ability of the median worker to produce) actually the case? If so, has it really backfired? By what standard do we measure this? Could this work? Or do I agree that GDP growth and human flourishing gotten detached from each other, and we could do better solving for the latter with different policies?
 
 To what extent is it true that the rich have pulled the ladder up behind them? If so, how did this work, concretely?
 
