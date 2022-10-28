@@ -15,7 +15,7 @@ In your work, you must either be a visionary, mercenary, apprentice, craftsman, 
 
 **Craftsman**: You’re doing work that you enjoy. Just getting to do the work is its own end. It’s an infinite game inside of the infinite game of life.
 
-Explorer: You don't know which type you are! You know this, you're aware of it, you're *leaning into it,* you're actively experimental and opportunistic. This is the most unstable of roles, and ought to resolve into one of the four aforementioned roles.
+**Explorer**: You don't know which type you are! You know this, you're aware of it, you're *leaning into it,* you're actively experimental and opportunistic. This is the most unstable of roles, and ought to resolve into one of the four aforementioned roles.
 
 What prompted these reflections was a recent conversation with a friend of mine. Discussing my own next steps, I cast aspersion on the notion of having or getting a job as a worthy goal in life. But even CEO’s have W2’s, my friend contended.
 
